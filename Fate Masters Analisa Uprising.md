@@ -132,10 +132,6 @@
             + Podem "resetar"
 + Indicar aproveitamento de ideias
 
-
-
-
-> Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTcxMzUwMjNdfQ==
+eyJoaXN0b3J5IjpbMzU3NTY4MDExLC0xMjE3MTM1MDIzXX0=
 -->
