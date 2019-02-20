@@ -27,5 +27,5 @@
 		+ Nem toda aventura precisa "resolver" uma Questão.
 			+ Descobrir a arma que mata o vilão, encontrá-la, e depois lutar contra o vilão
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODE4MjYyMzkyXX0=
+eyJoaXN0b3J5IjpbLTI1NDUxMDY0Niw4MTgyNjIzOTJdfQ==
 -->
