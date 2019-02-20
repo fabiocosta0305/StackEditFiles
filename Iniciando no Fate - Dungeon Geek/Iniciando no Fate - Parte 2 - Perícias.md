@@ -1,21 +1,4 @@
----
-title: Introdução Ao Fate - Parte 2 - Perícias, Abordagens e Rolamentos
-subheadline: Uma Introdução ao Fate 
-date: 2019-01-19 14:14:00 +0200
-layout: post
-categories:
- - RPG
-tags:
- - Fate
- - Fate Core
- - Fate-Core
- - Artigos
- - Dungeon Geek
- - Introdução ao Fate
- - introducao-ao-fate
-order: 2
-header: no
----
+# Introdução Ao Fate - Parte 2 - Perícias, Abordagens e Rolamentos
 
 > Publicado Originalmente no Site da [Dungeon Geek](https://www.dungeongeek21.com/bg/iniciando-no-fate-pericias)
 
@@ -281,3 +264,6 @@ Por fim, falamos sobre o conceito das _Quatro Ações_ que sumarizam basicamente
 No próximo artigo, falaremos sobre as Façanhas, as coisas especiais e únicas que o personagem é capaz de fazer, como escolher ou mesmo criar Façanhas e porque elas são tão importantes na caracterização do personagem. Também falaremos como elas podem simular equipamentos e técnicas especiais.
 
 Então, até a próxima e role +4.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTg3MjMxNzkwNF19
+-->
