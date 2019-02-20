@@ -1,21 +1,4 @@
----
-title: Introdução Ao Fate - Parte 5 - Criação de Cenário
-subheadline: Uma Introdução ao Fate 
-date: 2019-01-19 14:43:00 +0200
-layout: post
-categories:
- - RPG
-tags:
- - Fate
- - Fate Core
- - Fate-Core
- - Artigos
- - Dungeon Geek
- - Introdução ao Fate
- - introducao-ao-fate
-order: 5
-header: no
----
+# Introdução Ao Fate - Parte 5 - Criação de Cenário
 
 > Publicado Originalmente no Site da [Dungeon Geek](https://www.dungeongeek21.com/bg/iniciando-no-fate-criacao-de-cenario)
 
@@ -159,3 +142,6 @@ Até lá... Role +4!
 [fate-criacenario]: http://fatesrdbrasil.gitlab.io/fate-srd-brasil/fate-basico/estruturando-o-jogo/
 [tvtropes]: http://tvtropes.org
 [^1]: Alerta: você provavelmente perderá horas e horas de produtividade no mesmo. Consuma com moderação
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMjIxMDA5NzM0XX0=
+-->
