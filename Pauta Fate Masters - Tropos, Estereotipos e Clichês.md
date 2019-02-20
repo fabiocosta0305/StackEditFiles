@@ -27,5 +27,5 @@
 	+ Use os Opostos
 		+ _Uma Cilada Para Roger Rabbit_
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODU5MTg5MDRdfQ==
+eyJoaXN0b3J5IjpbMzAxNzYzNTY3LC0xNzg1OTE4OTA0XX0=
 -->
