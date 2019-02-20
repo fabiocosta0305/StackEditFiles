@@ -11,5 +11,5 @@
  - Como não esgotar todo um problema numa aventura?
  - Perdendo a preocupação com sua palheta de organização.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4OTUzNTM4XX0=
+eyJoaXN0b3J5IjpbMTY1MTMzNzQ1NywtODg5NTM1MzhdfQ==
 -->
