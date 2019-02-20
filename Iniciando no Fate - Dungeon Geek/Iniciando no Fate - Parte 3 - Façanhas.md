@@ -1,20 +1,4 @@
----
-title: Introdução Ao Fate - Parte 3 - Façanhas
-subheadline: Uma Introdução ao Fate 
-date: 2019-01-19 14:24:00 +0200
-layout: post
-categories:
- - RPG
-tags:
- - Fate
- - Fate Core
- - Fate-Core
- - Artigos
- - Dungeon Geek
- - Introdução ao Fate
- - introducao-ao-fate
-order: 3 
-header: no
+# Introdução Ao Fate - Parte 3 - Façanhas
 ---
 
 > Publicado Originalmente no Site da [Dungeon Geek](https://www.dungeongeek21.com/bg/iniciando-no-fate-facanhas)
@@ -150,3 +134,6 @@ Até lá... Role +4!
 [facanhas-investigar]: http://fatesrdbrasil.gitlab.io/fate-srd-brasil/fate-basico/investigar/#façanhas-para-investigar
 [^1]: _**N.A.:**_ Exemplo de Façanha criada no momento em que o Artigo foi escrito
 [^2]: perceba que aqui temos algo similar à Façanha de Conhecimentos _Especialista_
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTM3OTYzNTIxNl19
+-->
