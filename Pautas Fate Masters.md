@@ -55,5 +55,5 @@
 	- 1º nível _vs_ personagem iniciante Básico/Acelerado
 	- Como lidar com _Power Player_
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5NjI1NjMxOF19
+eyJoaXN0b3J5IjpbMTQwMTM5Mzg0MSwxMDk2MjU2MzE4XX0=
 -->
