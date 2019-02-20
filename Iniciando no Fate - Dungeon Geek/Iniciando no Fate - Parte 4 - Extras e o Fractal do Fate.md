@@ -1,5 +1,4 @@
 # Introdução Ao Fate - Parte 4 - Extras e o Fractal do Fate
----
 
 Olá!
 
@@ -142,5 +141,5 @@ Até lá... Role +4!
 [tvtropes]: http://tvtropes.org
 [^1]: Alerta: você provavelmente perderá horas e horas de produtividade no mesmo. Consuma com moderação
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1OTE4MjUxN119
+eyJoaXN0b3J5IjpbMTkzMDYzNjY1OF19
 -->
