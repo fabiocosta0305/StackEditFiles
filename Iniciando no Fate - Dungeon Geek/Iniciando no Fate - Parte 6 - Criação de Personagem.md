@@ -1,20 +1,4 @@
----
-title: Introdução Ao Fate - Parte 6 - Criação de Personagem
-subheadline: Uma Introdução ao Fate 
-date: 2019-01-19 15:06:00 +0200
-layout: post
-categories:
- - RPG
-tags:
- - Fate
- - Fate Core
- - Fate-Core
- - Artigos
- - Dungeon Geek
- - Introdução ao Fate
- - introducao-ao-fate
-order: 7
-header: no
+# Introdução Ao Fate - Parte 6 - Criação de Personagem
 ---
 
 > Publicado Originalmente no Site da [Dungeon Geek](https://www.dungeongeek21.com/bg/iniciando-no-fate-criacao-de-personagem)
@@ -264,3 +248,6 @@ Por fim, a Ficha de Helen Hemingway ficaria mais ou menos assim:
  -->
 <!--  LocalWords:  aquamarinha
  -->
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTk0ODYxMjY1M119
+-->
