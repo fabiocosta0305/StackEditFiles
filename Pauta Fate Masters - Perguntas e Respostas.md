@@ -49,5 +49,5 @@ Romance in the Air
 + ___Bruno Prosaiko___ - Como abordar situações de intriga em Fate?
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzc5MDk3OTU3XX0=
+eyJoaXN0b3J5IjpbLTY2NDY2NTgyMSwzNzkwOTc5NTddfQ==
 -->
