@@ -1,21 +1,4 @@
----
-title: Introdução Ao Fate - Parte 1 - Aspectos
-subheadline: Uma Introdução ao Fate 
-date: 2019-01-19 14:00:00 +0200
-layout: post
-categories:
- - RPG
-tags:
- - Fate
- - Fate Core
- - Fate-Core
- - Artigos
- - Dungeon Geek
- - Introdução ao Fate
- - introducao-ao-fate
-order: 1
-header: no
----
+# Introdução Ao Fate - Parte 1 - Aspectos
 
 > Publicado Originalmente no Site da [Dungeon Geek](https://www.dungeongeek21.com/bg/iniciando-no-fate-aspectos)
 
@@ -194,3 +177,6 @@ Tente obter e consolidar esses personagens em dois ou três Aspectos, e de prefe
 E logo você entenderá melhor os Aspectos.
 
 Até mais, e role +4!
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTAxODgwNjA1XX0=
+-->
