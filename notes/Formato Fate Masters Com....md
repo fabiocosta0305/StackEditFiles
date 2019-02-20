@@ -1,0 +1,6 @@
+# Formato Fate Masters Com...
+
++ Definindo...
++ Elementos Importantes
++ Constituindo os Elementos em Fate
++ Criando um cenário em 1-2-3
