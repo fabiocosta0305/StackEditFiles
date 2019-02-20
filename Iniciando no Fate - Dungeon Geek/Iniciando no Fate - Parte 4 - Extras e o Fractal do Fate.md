@@ -1,145 +1,279 @@
-# Introdução Ao Fate - Parte 4 - Extras e o Fractal do Fate
 
-Olá!
+# Iniciando no Fate - Extras e o Fractal do Fate
 
-Continuando nossa série "Iniciando no Fate", vamos tratar da parte de Criação de Cenários e Personagens. 
++ _Previamente publicado em: <https://www.dungeongeek21.com/bg/iniciando-no-fate-extras-e-o-fractal-do-fate>_
 
-Como muitos RPGs, Fate traz uma grande quantidade de suplementos de cenários: sejam eles jogos fechados como _Kaiju Incorporated_, _Uprising: The Dystopian Universe RPG_ ou _Jadepunk_ ou módulos acessórios dependentes do Fate Básico ou do Acelerado como a série _Worlds of Adventure_, _Tachyon Squadron_, _Bukatsu!_ ou _Projeto Memento_, tdos eles trazem suas peculiaridades específicas para o tipo de cenário ou jogo que se aplicam, de modo que jogar _Loose Threads_, _Masters of Umdaar_, _Weird World News_ ou _Nest_ trazem regras e propostas completamente diferentes umas das outras.
+Vamos continuar a nossa série sobre o Fate, onde já falamos sobre Aspectos, Perícias, Façanhas, entre outros assuntos.
 
-Mas a parte que pode ser mais interessante é você mesmo criar seu estilo de jogo, baseado no que você e seus amigos gostam e/ou estão interessados em jogar. Desse modo, pode-se chegar a um cenário que seja exatamente aquilo que seus jogadores desejam, funcionando como base para o jogo, que pode receber novas regras e informações conforme a _**narrativa emergente**_ e compartilhada fizer as coisas virem à tona.
+A parte mais curiosa do Fate é que, se o seu jogo não prever muitas coisas diferentes, só com o que você tem anteriormente já é possível seguir adiante e criar aventuras muito boas.
 
-Embora existam vários mecanismos interessantes de criação de cenário em Fate, sobre os quais falaremos em artigos futuros, aqui iremos utilizar o método sugerido no [Capítulo 2 do Fate Básico][fate-criacenario], por se tratar de algo que já está disponível sem a necessidade de comprar livros ou consultar materiais externos, já sendo parte do próprio Fate. Vamos utilizar esse cenário a ser criado como fonte dos exemplos de personagem e por aí afora.
+Mas obviamente você pode (e vai) querer ou precisar de regras para itens ou poderes especiais, ou para coisas "externas" ao jogador que eles poderão ter acesso para os ajudar, como organizações ou veículos.
 
-## Definindo o ambiente ao redor dos personagens
+Em muitos RPGs isso é resolvido por meio de subsistemas específicos, e isso não é ruim, já que tais subsistemas foram (acredita-se) testados para verificar se o funcionamento dos mesmos não atrapalha o funcionamento do jogo.
 
-Nesse primeiro passo, definimos o mundo ao redor do qual os personagens estarão. Ainda que eles sejam os protagonistas, o mundo não necessariamente gira ao redor deles. Todo tipo de coisa pode (e provavelmente irá) acontecer ao redor deles, envolvendo-os em coisas que podem estar além da compreensão deles ou colocá-los contra a parede com decisões morais sérias a tomarem e dramas interessantes a ocorrerem.
+Fate, entretanto, recorre a duas coisas que andam de mãos dadas: _Extras_ e o _Fractal do Fate_.
 
-Como no próprio Fate é aconselhado, se você não tiver adaptando algo que já exista, não tente criar muitas coisas: as respostas para muitas perguntas surgirão conforme os eventos forem ocorrendo na aventura. Isso é a _Narrativa Emergente_: você pode ter até uma idéia de onde as coisas vão, mas o caminho e os resultados de tais eventos irão surgir na aventura.
+## O que são Extras?
 
-E não tenha medo de usar tropos ou clichês: como se diz, clichês são clichês porque eles _Funcionam_. Não os use de muleta, mas ao mesmo tempo não tenha receio de recorrer a eles quando necessário. E isso pode ser um bom ponto de partida para criar um cenário: basta ver séries que você gosta no [TVTropes.org][tvtropes] para ter uma noção de como utilizar os mesmos em aventuras de Fate[^1].
+Segundo o [próprio Fate Básico][fatesrd-extras] _"Um Extra em Fate é um termo bastante amplo. Vamos utilizá-lo para descrever tudo que tecnicamente faz parte do personagem ou é controlado por ele, mas que precisa de regras especiais."_
 
-> Mateus, Julia, Ricardo e o narrador Lúcio se juntam para uma nova campanha de RPG. Eles estão meio cansados do ambiente medieval, mas querem algo com muita fantasia. Mateus relembra de como gostava das conspirações de _Arquivo X_, então menciona que quer jogar algo com _"Investigação, Conspirações e Mistério"_, e Julia anda em uma vibe de Contos de Fadas desde que começou a ler _Fables_ e assistir _Once Upon A Time_ e gosta da idéia de _"Magia em um mundo em que ela é oculta"_. 
+Não parece muito diferente do anterior, né?
+
+Mas realmente é isso: um extra é algo que o personagem controla e que pode demandar regras especiais. 
+
+O exemplo mais interessante mostrado no Fate Básico é o caso de Bandu, o Oculto. Ele é um personagem que possui poderes psíquicos, mas que em termos mecânicos são apenas uma aplicação extendida para a perícia de _Conhecimentos_.
+
+Dito isso, a pergunta que deve estar se passando na sua cabeça é: _"por que outros personagens não podem fazer isso?"_
+
+Por causa das _permissões_ e _custos_ associados.
+
+### Permissões e Custos
+
+Dois conceitos importantes a serem entendidos ao falarmos sobre _Extras_ são _Permissão_ e _Custo_.
+
+Uma _Permissão_ é algo que habilita o personagem a ter acesso a tal _Extra_, independentemente de todo o resto. Um personagem que não tenha cumprido previamente com a _Permissão_ do Extra não tem acesso aos benefícios do mesmo, não importa se o mesmo pagou os _Custos_. A _Permissão_ é algo que autoriza o personagem a ter aquele recurso, então ele precisa da mesma não importa o que aconteça.
+
+Um exemplo comum de _Permissão_ é o caso de Harry Potter, onde poderíamos demandar que em algum dos Aspectos do Personagem esteja descrito que ele é um Bruxo, alguém capaz de manipular magia. Sem tal permissão, mesmo que a pessoa viva cotidianamente com contato com a Magia (como Argus Filch) não poderia ter acesso às habilidades mágicas.
+
+As _Permissões_ podem ser de qualquer ordem: se você lembrar do que falamos ao falar de Façanhas, falamos que é possível criar-se uma Árvore de Façanhas criando Façanhas que demandem outras Façanhas para benefícios cada vez maiores em situações cada vez mais específicas. Ou seja, de certa forma, isso já seria um "Extra rudimentar".
+
+Dito isso, vamos voltar ao exemplo dos [Poderes Mentais][srd-poderes] de Bandu, o Oculto: ele tem uma _Permissão_ a cumprir, que é descrever o fato de ter Poderes Mentais em um Aspecto do seu personagem. Ele então coloca em seu _Conceito de Personagem_ o fato de ser um _**Mentalista Andarilho**_, o que o autoriza a ter acesso a tais poderes.
+
+Entretanto, se ele será bom ou não nos mesmos dependerá dos _Custos_ pagos.
+
+Os _Custos_ refletem o tempo e esforço que o personagem investiu em ser bom naquele Extra ou ter o mesmo melhor que a maioria. Um Bruxo que invista espaços em perícias dentro da sua Pirâmide para perícias específicas de magia será obviamente mais fraco em outros setores, enquanto um soldado que consuma Façanhas para montar um equipamento melhor certamente terá menos capacidades especiais em outros setores que outros personagens.
+
+Perceba que, uma vez que a _Permissão_ tenha sido cumprida, o personagem _**não precisa, necessariamente**_ pagar os Custos, exceto se o Extra explicitamente dizer de outra forma. O exemplo mais interessante desse caso é pensar em _Neville Longbottom_ no início de Harry Potter: ele (e boa parte de sua turma em Hogwarts) não pagou custos para colocar as Perícias relacionadas com a Magia em sua Pirâmide. Desse modo, apesar de ainda assim ele ser capaz de realizar magias, ele não o consegue fazer bem, diferentemente, por exemplo, de _Hermione Granger_, que colocou a perícia de _Feitiços_ (imaginando que ela exista no Extra) em sua Pirâmide.
+
+Desse modo, ainda é possível estabelecer que um personagem possa pagar _**"apenas"**_ as permissões e não os custos necessariamente.
+
+Como uma regra de dedo final, é fácil entender como funciona a questão das permissões e custos em um Extra:
+
++ _Permissão_ destranca o uso do Extra
++ _Custo_ indica o quão bom o personagem é no uso do Extra e quanto tempo e recursos ele investiu nos mesmos
+
+No caso do manual do Fate Básico, o Extra de Poderes Mentais usado por Bandu, o Oculto, seria definido [assim][srd-exemplopoderes]:
+
+> + _**Permissões:**_ Um Aspecto relacionado que seja refletido no jogo.
+> + _**Custo:**_ Um nível de perícia, especificamente para a perícia _Conhecimentos_ (normalmente, você também gastaria pontos de recarga por estar adicionando novas ações a uma perícia, mas Amanda e seu grupo consentem que isso não será necessário).
+
+## Compondo um Extra
+
+Dito o que falamos sobre _Permissões_ e _Custos_, como avaliar a melhor maneira de representar tais elementos em jogo?
+
+Bem, seguindo o que é dito no [manual do Fate Básico][srd-elementosextras]:
+
+> + Se o extra _**inﬂuencia a história**_, então deve usar _**aspectos**_.
+> + Se o extra _**cria um novo contexto para a ação**_, então ele deve usar _**perícias**_.
+> + Se o extra permite _**realizar algo extraordinário**_ com uma perícia, então deve usar _**façanhas**_.
+> + Se o extra pode __*sofrer dano ou ser consumido*__ de alguma forma, então deve poder receber _**estresse e consequências**_.
+
+Vamos analisar cada caso de uma maneira mais específica
+
+### Aspectos - Influenciando a História
+
+Aspectos sempre impactam em uma história e sempre são verdades em jogo, conforme visto anteriormente no primeiro artigo dessa série. Não seria diferente nos Extras.
+
+Se pegarmos os [exemplos que vimos anteriormente][iniciando-aspectos], e o que falamos anteriormente, podemos ver que Aspectos são muito mais interessantes enquanto _Permissões_ do que enquanto _Custos_. Afinal, ser _**Membro da Ordem do Touro de Ferro**_ pode ser pré-requisito para ter acesso a toda uma gama de habilidades e equipamentos especiais, que podem se traduzir nos demais elementos. 
+
+Entretanto, um _**Aspecto**_ enquanto _**Custo**_ pode ser interessante também, se você pensar, por exemplo, em Senhor dos Anéis: Frodo se tornou o _Portador do Um Anel_ após pagar o custo de assumir a _**Demanda do Anel**_, mas a _Permissão_ do mesmo pode ter sido o fato de estar no Conselho de Elrond quando isso foi debatido, ou pura e simplesmente ter entrado em contato com o Um Anel previamente de maneira narrativa (ou não).
+
+Em especial, se você tiver algum Extra que tenha profundas implicações, você pode até mesmo  atrelar uma _Permissão_ ou _Custo_ ao _**Conceito**_ do Personagem: certas coisas que podem ser inerentes de maneira profunda ao personagem são potenciais candidatos para tal. Por exemplo, a Bruxaria de Harry Potter, as Raças de Senhor dos Anéis, uso de Psiônicos em Babylon V, todas essas são características inerentes, que normalmente não são obtidas por outros meios, como treinamento ou associação.
+
+### Perícias - Criando um Novo Contexto
+
+_Perícias_ são interessantes quando pensadas mais como _Custo_ do que como _Permissão_: elas implicam em algum tipo de treinamento ou preparação do personagem previamente. Por exemplo, em Harry Potter podem estar disponíveis novas perícias representando os talentos e habilidades mágicas, como Feitiços, Transfiguração, Poções e assim por diante. 
+
+Ao utilizar perícias, você pode usar alguma perícia já existente (indicando um uso prático de algum conhecimento teórico, como no caso de Bandu) ou pode criar novas perícias (como no caso dos Bruxos de Harry Potter). Em especial, a segunda opção pode ser bem interessante pois ela permite "equilibrar" o personagem em relação aos outros em termos de tempo de tela: ele pode ter capacidades especiais mas... _"Qual é, exatamente, a função de um patinho de borracha?"_ (WEASLEY, Arthur)
+
+Perícias enquanto _Permissão_ podem ser interessantes quando você está disponibilizando certas Façanhas poderosas. Pense em Harry Potter: alguns das habilidades mágicas mais poderosas podem demandar Façanhas especiais que tenham como _Permissão_ níveis mais altos de alguma das perícias disponibilizadas pelo Extra. Um _Animago_, por exemplo, pode demandar um nível de _Transfiguração_ _**Bom (+3)**_ ou melhor. Mesmo uma capacidade simples, como _Aparatar_, pode demandar ter _Feitiços_ _**Razoável (+2)**+_, indicando o fato que não é tão simples realizar tal ação.
+
+> #### Criar novas perícias ou usar perícias existentes?
 > 
-> Ricardo gosta da idéia de colocar seus personagens como sendo guardiões de algum segredo tão estranho que nem eles mesmos saibam do que se trata totalmente, e coloca que quer alguém que _"Faça as coisas erradas pelos motivos certos"_. Todos concordam com isso e seguem adiante.
-
-## A Grandeza do Jogo
-
-Agora os jogadores deverão decidir a _Grandeza_ do jogo, algo que dará uma ideia de o quão épica será a escala do jogo. Não há problema nenhum em decidir algo agora que aparente não ser uma boa idéia: sempre é possível ajustar isso no futuro, quando as coisas se complicarem.
-
-Em Fate pode-se dizer que as Grandeza seria _Pessoal_ ou _Épica_:
-
-+ Uma Grandeza mais _Pessoal_ envolve resolver problemas mais locais ou eventos cujo drama seja mais pessoal e íntimo;
-+ Uma Grandeza _Épica_ envolveria dilemas de grande porte, afetando às estruturas do mundo de maneiras incríveis, os personagens podendo salvar ou destruir nações;
-
-> Júlia sugere que as idéias que eles estão tendo leva a um cenário ao estilo Fantasia Urbana, coisas como _Lúcifer_ ou _The Librarians_, onde os dilemas dos personagens apareçam mais que o famoso _"vamos salvar o mundo"_, ainda isso possa acontecer em momentos adequadamente dramáticos. Mesmo que existam poderes incríveis, seus impactos não são tão diretamente visíveis. Como todos andam meio cansados do estilo _"pew-pew-pew"_ de aventuras épicas, uma campanha mais focada nos personagens e em seus dilemas parecer ser bem legal para o que eles querem.
-
-## As Questões do Cenário
-
-Aqui chega um momento importante, que é definir as _Questões do Cenário_. As Questões são exatamente os problemas que estão fazendo as coisas acontcerem e que os personagens deverão resolver (ou piorar) para levar as coisas adiante. Em termos de Fate, as Questões são _**Aspectos de Cenário**_ que poderão ser usados pelos jogadores ou contra os jogadores conforme a necessidade. Por isso, deve-se anotar os mesmos.
-
-Em termos de Fate, existem dois tipos de Questões:
-
-+ __*Questões Presentes*__ são as coisas que estão acontecendo ou já aconteceram, mas que ainda estão influenciando no cenário. O que tais questões significam e o quanto isso pode ser resolvido ou pode se complicar em caso de problemas será descoberto no jogo, mas essas Questões já estão a algum tempo acontecendo por aí.
-+ __*Questões Iminentes*__ são problemas que estão começando a aparecer: eles ainda não afetam _**EM TEORIA**_ o cenário, mas a idéia é que, caso nada ocorra de maneira diferente, esse é o caminho para o qual as coisas vão, para o bem ou para o mal;
-
-Normalmente, um cenário de Fate deve ter quatro Questões, duas de cada tipo: colocar mais Questões de um tipo pode aumentar o impacto das coisas, e colocar menos vai fazer com que o as coisas pareçam estar sempre indo para uma espécie de solução final ou que as coisas possam tender a um caos a qualquer momento.
-
-> O grupo pensa que é interessante que exista apenas uma grande _**Questão Iminente**_, já que a ideia é que algo pode estar vindo mais sério, um ponto de virada para o qual o mundo está se encaminhando. Como eles querem jogar já no Século XXI, mas com ainda ideias meio milenaristas, eles debatem muito esses conceitos até que em algum momento Júlia dispara **"As Brumas de Avalon irão se desfazer!"**. Todos olham para ela e sorriem com a ideia: o retorno de algo místico sempre apimenta as coisas em Fantasia Urbana, e se isso é bom ou ruim será tema para ser descoberto nas aventuras.
+> Quanto a possibilidade de usar Perícias existentes com novos contextos em um Extra, isso depende do quanto você quer dar de poder para um personagem: lembre-se que em Fate normalmente as perícias são muito amplas, permitindo que os personagens tenham muitas capacidades apenas por ter uma perícia em sua pirâmide. Oferecer novos contextos e opções de uso de perícias por meio dos Extras pode oferecer poder demais para um ou mais personagens específicos. Entretanto, se tais Contextos não forem demasiadamente poderosos, criar uma nova perícia pode ser uma super-especialização desnecessária
 > 
-> Lúcio, o Narrador, decide que é legal os personagens começarem o jogo meio sem saber que diabos está acontecendo. Ele pensa que uma questão interessante seria _**Poderes em Troca de Memórias**_: os personagens recberam uma série de poderes fantásticos interessantes, mas não sabem de quem, por que, para que e o quanto isso os afetou. Eles poderão até ter memórias difusas sobre o que aconteceu com eles, mas nada que eles possam garantir de maneira certa e cega que é verdade.
+> Na prática, acredito que você deva criar perícias apenas quando:
 > 
-> De carona com isso, Ricardo acha interessante que os poderes sejam baseados em ___Fábulas e Contos de Fadas___. Isso permite colocar um ar de mistério e fantasia. Além disso, traz ao jogo (como Aspecto), a possibilidade de eventos de Contos de Fadas se replicarem em nosso mundo moderno, algo que aparenta ser interessante a todos. Lúcio gosta da idéia, pois isso se encaixa com sua Questão de _**Poderes em Troca de Memórias**_, implicando nos personagens procurarem uma explicação de por que receberam esses poderes baseados em Contos de Fadas e o que isso pode pedir (ou ter pedido) de preço, já quem em Fábulas e Contos de Fadas nada acontece por acaso.
+> 1. Colocar tal contexto dentro de uma previamente existente aumentar excessivamente os benefícios e;
+> 2. Quando os contextos forem suficientemente separados para justificar uma nova perícias
 > 
-> Mateus decide que é uma boa ideia colocar algo mais pé no chão: ele não quer algo ao estilo _Dresden Files_ onde os personagens jogadores parecem meio que deslocados do mundo real. Ele decide então criar uma Questão de ___Meu iPad fica do lado da Excalibur___, representando a ideia de que os personagens tem acesso tanto aos itens e conhecimentos mais tecnologicos quanto a itens mágicos e fantásticos. Isso é bem legal, todos pensam, já que também pode implicar no fato de que existe sempre a possibilidade de personagens fantásticos quererem coisas mundanas, mas que seriam complicadas de conseguir: o que fazer quando o Gigante do Pé de Feijão descer à terra para assistir a final da World Series de Baseball com os NY Giants? E sempre existe aquela: quem vence, Santo ou Godzilla?
+> Sempre lembre-se, também, que essas "novas" Perícias podem simplesmente ser uma duplicidadade de perícias previamente existentes dentro de um contexto, dividindo as atenções. Um exemplo, pensando em Harry Potter, seria ter uma perícia de _Conhecimento Bruxo_ em contrapartida à perícia de _Conhecimentos_ padrão, focada nos acontecimentos, história, e elementos do Mundo dos Bruxos. Isso pode oferecer uma maneira muito boa, tanto em termos mecânicos quanto narrativos, de justificar personagens com alto entendimento do mundo dos bruxos contra o mundo dos trouxas e vice versa, o que podemos chamar de _"Dilema de Rony vs Hermione"_, onde um conhece muito do mundo dos bruxos, outro do mundo dos trouxas e ambos são quase que completamente néscios quanto ao "outro" mundo
+
+### Façanhas - Realizando coisas extraordinárias
+
+Façanhas são igualmente interessantes enquanto _Custo_ ou _Permissão_, como demonstramos no [artigo anterior][dgw-facanha], ao construir as Árvores de Façanhas.
+
+É sempre legal ter uma série de Façanhas disponíveis para um personagem que tenha determinadas _Permissões_, em especial aquelas baseadas em _Aspectos_: isso reflete muito bem os benefícios atrelados a determinadas escolhas. 
+
+Por exemplo, um _**Membro da Ordem do Touro de Ferro**_ pode ter disponíveis Façanhas especiais que representam os benefícios de um treinamento intenso em combate ou a posse de equipamentos especiais disponíveis apenas aos _**Membros da Ordem do Touro de Ferro**_:
+
+> + __*Carga do Touro:*__ o _**Membro da Ordem do Touro de Ferro**_ pode usar _Atletismo_ para Atacar qualquer alvo que esteja em um número de zonas igual ao seu bônus em _Atletismo_ (mínimo 1). Ele tem que ter linha visual para o alvo e não pode ter nenhum tipo de obstrução no caminho. Em caso de _Sucesso com Estilo_ no Ataque, ele pode reduzir o Estresse final em 1 para provocar dano diretamente nas Consequências;
+> + __*Honra do Touro:*__ _**Membros da Ordem do Touro de Ferro**_ são reconhecidos por seus juramentos de servir a causas nobres, e isso os coloca como campeões dos mais pobres. Sempre que precisar _Defender_ pessoas em situação vulnerável, ele recebe +2 em todas as ações de Defesa. Além disso, não pode ter Aspectos Forçados contra ele visando o demover da ação de proteger os mais fracos;
+
+E assim por diante.
+
+### Estresse e Consequências - Consumo de recursos
+
+Estresse e Consequências são as formas de Dano que um personagem pode sofrer em Fate, resumindo rapidamente (quando falarmos de Conflitos explicaremos melhor tais termos). Normalmente esse tipo de característica é mais usada enquanto _Custo_ do que enquanto _Permissão_, em especial em _Extras_ mais complexos que demandem o Fractal do Fate (veja abaixo).
+
+Entretanto, uma alternativa interessante a isso apareceu em _Dresden Files Accelerated_, que adota _Condições_ (uma variação à regra de Estresse e Consequências) para gerar efeitos ao estilo _Liga/Desliga_, ou ao estilo _Poderes Concedidos_ de D&D.
+
+Associando isso a Façanhas, podemos criar situações que emulem de maneira interessante todo o tipo de poder especial estranho. Por exemplo:
+
+> _**Touro Solar ( )( )( ):** (permissão: **Membro da Ordem do Touro de Ferro**; custo: Façanha)_ Como seguidores de um Deus justo, os _**Membro da Ordem do Touro de Ferro**_ podem utilizar efeitos de _**Expulsar Mortos-Vivos**_: role um Ataque por _Vontade_ que afeta qualquer monstro morto-vivo em um número de Zonas igual a metade do bônus de Vontade (arredondado para baixo, mínimo 1). O monstro pode _Defender-se_ normalmente por _Vontade_. A cada uso, marque uma caixa. O personagem deve ter pelo menos uma caixa vazia para usar tal poder. Ele pode limpar todas as suas caixas se puder descansar por um período suficientemente longo para orar ao _**Touro de Ferro**_ (no mínimo 6 horas)
+
+Perceba que esse é um poder extremamente forte (um ataque contra todos os alvos de um determinado tipo em uma região), que custa uma Façanha. Entretanto, ele só pode ser usado um determinado número de vezes antes de demandar algum tipo de ação para ser limpo (no caso, três vezes, e o personagem deve descansar para limpar suas caixas). 
+
+Um outro exemplo interessante envolve o uso de consequências:
+
+> + _**Chuva de Balas:**_ seu personagem pode usar _Atirar_ para se Defender de Ataques com +3 no rolamento. Entretanto, uma vez usado, o personagem estará _**Sem Balas**_
+
+Como uma explicação rápida, Consequências são Aspectos especiais que surgem no personagem como resultado de ações de Ataque suficientemente poderosas. No caso, o que fizemos anteriormente é permitir que o personagem utilize toda sua munição para criar algo que o proteja de Ataques com +3 no seu rolamento de Defesa (algo que Atirar normalmente não permite). Entretanto, uma vez que isso seja usado, ele sofre uma _"Consequência"_ _**Sem Balas**_. Como Consequências são Aspectos, e Aspectos representam verdades em jogo, enquanto o personagem não conseguir remover essa _"Consequência"_ _**Sem Balas**_ do jogo, ele não poderá usar sua perícia de Atirar, pois ele estará sem munição.
+
+Esse tipo de situação é muito boa em caso de _Façanhas como Equipamentos_, tanto que em _**Masters of Umdaar**_ ela é utilizada constantemente, com personagens podendo ficar _**Desarmados**_ como Consequências de Falhas em certas ações.
+
+## Extras complexos - o Fractal do Fate
+
+Até agora, não tem sido muito difícil, pois temos associado um elemento a outro: Aspectos destrancando Façanhas, Perícias como custo para Habilidades e assim por diante.
+
+Entretanto, ao descrever um Extra você pode querer aumentar muito o nível de complexidade do mesmo.
+
+**_Não o faça_. Mantenha o mais simples as coisas o mais simples possível!**
+
+Dito isso, aqui aparece uma das magias do Fate, que ele herdou de seu antepassado _Fudge_: O _**Fractal do Fate**_
+
+Como definido no [Fate Básico][srd-definicaofractal]:
+
+> _**Em Fate, tudo pode ser tratado como se fosse um personagem. Qualquer coisa pode possuir aspectos, perícias, façanhas, barra de estresse e consequências se for preciso.**_
+
+A vantagem desse mecanismo é que você já pega todo um sistema testado e o customiza para rapidamente tratar qualquer coisa: Equipamentos, Organizações, Grupos Secretos, mesmo Culturas podem ser fractalizadas. Existe até mesmo o exemplo extremo em SLIP onde a própria CAMPANHA é fractalizada, podendo provocar dano nos personagens (e sofrer também)
+
+E no que o Fate Fractal ajuda?
+
+Algumas vezes você vai querer representar coisas de maneira mais específica, adicionando vários dos exemplos mostrados anteriormente. Por exemplo:
+
+> #### Metralhadora da Corporação _LionHeart_
+>  
+> + _**Permissão:**_ Aspecto indicando fazer parte da Corporação _LionHeart_ ou ter a obtido de um Soldado _LionHeart_
+> + _**Custo:**_ Façanhas (mínimo 1)
+>  
+> Equipamento padrão dessa companhia de Mercenários, ela é customizada conforme a necessidade e especialização do soldado que a usa por meio de acessórios que podem ser facilmente plugados à mesma. São consideradas _**Confiáveis**_, mas também são meio _**Pesadas**_
+>  
+> + _**Poder de Fogo**_: Toda Metralhadora _LionHeart_ oferece +2 ao Atacar alvos em até duas Zonas devido ao poder de fogo da mesma
+> + ( )( )( )( )( ) _**Munição finita**_: a cada turno que for usada, a Metralhadora _LionHeart_ perde uma parcela de sua munição. Marque uma caixa. Quando todas as caixas estiverem marcadas, ela estará _**Sem Munição**_, e o personagem precisará gastar um turno recarregando a Metralhadora. Se desejar recarregar mais rápido ou fazendo alguma outra ação no processo, deve rolar contra dificuldade _**Razoável (+2)**_
 > 
-> Eles chegam à conclusão de que não é necessário mais questões... Até que Mateus sugere uma questão iminente junto com as demais, de ___As pessoas que estão percebendo a Verdade___: nem todas as pessoas são idiotas para cair em ladainhas sobre explosões de gás quando um dragão explode metade da Quinta Avenida. O 11 de Setembro já foi complicado demais de explicar, e nem envolvia nada místico! Isso pode implica que algumas pessoas podem estar notando o que está acontecendo, e o que isso vai significar pode ser algo resultante no futuro.
+> Entre os acessórios mais comuns estão:
 > 
-> As Questões desse cenário são, portanto:
-> 
-> + **Presentes:**
->    + _**Poderes em Troca de Memórias**_
->    + ___Fábulas e Contos de Fadas___
->    + ___Meu iPad fica do lado da Excalibur___
-> + **Iminentes:**
->    + ___As pessoas que estão percebendo a Verdade___
->    + **"As Brumas de Avalon irão se desfazer!"**
+> + _**Mira Telescópica:**_ (custo adicional 1 Façanha) você recebe +2 para _Criar Vantagens_ usando _Atirar_ durante Conflitos para colocar alvos _**Na Mira**_. Em outras situações, pode ser usado para _Criar Vantagens_ observando alvos que estejam a longa distância usando _Investigar_
+> + _**Baioneta:**_ (custo adicional 1 Façanha) você pode utilizar sua Metralhadora como uma arma de estocadas, recebendo +2 em suas ações de _Lutar_ ao Atacar alvos próximos
+> + _**Clip de Munição maior:**_ (custo adicional 1 Façanhas) o(s) clip(s) de munição de sua Metralhadora são maiores que o padrão. Adicione duas caixas adicionais de __*Munição*__ em sua Metralhadora por Façanha. Pode ser adquirido múltiplas vezes
+> + ( ) __*Clip de Recarga Rápida*__ (custo adicional 1 Façanha) você pode recarregar automaticamente sua Metralhadora uma vez por conflito usando esse _Clip_. Apague todas as caixas de Munição e marque a caixa do clip. Você precisa gastar uma ação fora de Conflito para recarregar seu Clip de Recarga Rápida. Pode ser comprada várias vezes
+> + ( )( ) _**Lançador de Granadas:**_  (custo adicional 1 Façanha) Sua metralhadora possui um lançador de Granadas Antipessoais, que pode ser usado tanto para _Atacar_ todos os alvos em uma zona específica de maneira indistinta por _Atirar_ ou para _Criar Vantagem_ por Atirar com _**Zonas de Fumaça**_ ou _**Gás Lacrimogêneo**_
 
-Decidido isso, coloque algumas informações sobre cada uma das Questões, como forma de dar uma noção do que cada uma delas e o que elas envolvem. Isso pode levar a gerar novos Aspectos que pode ser úteis, como Questões dentro das Questões
+Perceba que usamos nesse Extra _Aspectos_ para afirmar que a Metralhadora LionHeart é _**Confiável**_, mas _**Pesada**_; _**Façanhas**_ para indicar os vários acessórios, mais o  Poder de Fogo excepcional dessa arma, e _Estresse_ (no caso, Estresse de 1 Ponto, como mostrado no _**Fate - Ferramentas de Sistema**_) para indicar consumíveis, além de _Condições_ no caso do _Clip de Recarga Rápida_. Isso permite, graças ao fato de cada um desses acessórios ser representados em forma de Façanhas, que cada jogador possa diferenciar sua metralhadora das maneiras mais diversas.
 
-> Lúcio conversa mais um pouco e faz algumas anotações relacionadas ao que foi debatido e levou às questões. Em especial, os _**Poderes em Troca de Memórias**_ é uma coisa que demandou maior análise, em especial quando pensa-se na idéia de que eles vêem de ___Fábulas e Contos de Fadas___. 
-> 
-> Eles chegam à uma conclusão importante: eles afetaram bastante às pessoas, já que não apenas sua memória foi nublada, mas seu próprio comportamento foi afetado, ainda que sutilmente: aparentemente esses poderes, que chamam de ___Escopo___ depende da personalidade de cada um, que deve transparecer um personagem de Contos de Fadas. Aparentemente, quanto mais fortes os personagens ficarem nesse Escopo, mais próximo do personagem eles estarão, uma balança fina onde eles podem perder sua própria personalidade em nome de um estereótipo formado nos contos de fadas.
-> 
-> Isso leva Lúcio a criar uma Nova Questão ligada aos _**Poderes em Troca de Memórias**_: _**"Quanto eu sou eu e quanto eu sou a Fábula?"**_. Todos concordam que isso parece bem interessante, e ficam com isso
-> 
->    + _**Poderes em Troca de Memórias**_
->      + Questão: _**"Quanto eu sou eu e quanto eu sou a Fábula?"**_
->    + ___Fábulas e Contos de Fadas___
->      + Oferecem poderes sem explicação e demandam serviços
->    + ___Meu iPad fica do lado da Excalibur___
->      + Magia e Tecnologia podem coexistir e todos podem usar ambos
->    + ___As pessoas que estão percebendo a Verdade___
->      + Manter o controle ou deixar para lá?
->    + **"As Brumas de Avalon irão se desfazer!"**
->      + Qual o desejo deles?
+O quão personalizável podem ser Extras que envolvam o Fractal do Fate? O Céu é o Limite, basicamente. Basta ver alguns dos melhores Extras disponíveis nos World of Adventure, com um Destaque Especial à Convergência de SLIP, a "realidade alternativa hostil" que os personagens devem vencer, expulsando de nossa realidade: ela possui SUA. PRÓPRIA. FICHA., evoluindo, crescendo em ameaça, mas sofrendo dano provocado pelas ações dos personagens. Ela passa a interagir profundamente com os mesmos, mostrando como a realidade que conhecemos vai se tornando estranha e hostil.
 
-Perceba que as anotações, à exceção da Questão nova _**"Quanto eu sou eu e quanto eu sou a Fábula?"**_ são apenas algumas anotações rápidas que permitem dar uma clearada no que pode acontecer no futuro, mas não são aspectos _per se_. Obviamente, conforme a campanha for evoluindo, você pode fazer com que algumas dessas anotações possam gerar novas questões e Aspectos relevantes, conforme as coisas acontecerem.
+### Fractal do Fate e o Fate Acelerado
 
-## Rostos e Lugares
+Aqui cabe fazer um pequeno parenteses para as pessoas que acham que o Fate Acelerado é um outro jogo (NÃO É!): usar o Fate Acelerado provê um mecanismo muito interessante para gerar Fractais muito complexos, como organizações e veículos. Mude as Abordagens e alguns dos nomes dos Aspectos e... POOF... Fractal Instantâneo.
 
-Agora, é hora de os jogadores e o Narrador começarem a associar nomes e lugares a essas questões ou a coisas relacionadas às mesmas, pois isso oferecerá um ponto de partida para coisas com as quais os personagens terão que se envolver no cenário.
+Vamos ver um exemplo?
 
-Claro, que como tudo, isso é um ponto de partida: com os eventos dos jogos, as coisas ficarão mais claras e poderão ser reescritas.
+Você vai precisar de veículos? OK...
 
-No caso de Rostos, eles serão NPCs que terão que receber algum tipo de Aspecto que os envolva com a trama em questão. No caso de Locais, isso não é necessário de imediato. Em ambos os casos, entretanto, é necessário que os personagens digam um pouco sobre o que eles acham das coisas como parâmetros iniciais. 
+O _Conceito_ de um veículo é sua _**Característica Principal**_, como um _SUV para qualquer terreno_ ou _O Carro Impossível do Monte Akina_. Ele indicará a ideia básica por trás do veículo em questão, para que ele foi pensado e qual sua função em termos gerais.
 
-> Primeiramente, eles decidem que tudo ocorrem em Nova York, com os personagens ainda tentando se relocalizar das experiências estranhas com as Fábulas que lhes concederam _**Poderes em Troca de Memórias**_
-> + Isso leva eles a pensarem em usar _Strawberry Fields_, dentro do Central Park, como ponto de encontro do grupo, já que foi lá que eles foram encontrados meio perturbados e com roupas totalmente estranhas, de tecidos de materiais e construções que eles apenas conseguem definir como _de Contos de Fadas_
-> + Isso leva a Lúcio pensar em um NPC recorrente que pode lhes ajudar (ou mão) no processo de se readaptar e entender o que aconteceu com eles. Ele é conhecido como ___Sr. Tumnus___ e parece um mendigo meio louco que mora em _Strawberry Fields_. Entretanto, ele ___Aparenta Saber mais do que Diz___ já que não ficou chocado com o cheiro do ozônio e as roupas estranhas e tudo relacionado ao retorno dos personagens;
-> + O que faz com que os personagens precisem de uma "base de operações". Como Júlia revela que tem o interesse em ser uma espécie de Fada Madrinha do grupo, ela decide que seu personagem tem um _Flat no Ediício Dakota_ que fica ao lado. O ___Ar de Mistério___ que involve o mesmo torna tudo ainda mais interessante, já que tem o lance de ter sido a casa de John Lennon na América até ele ser morto por Mark Chapman, e toda a questão do filme _O Bebê de Rosemary_, torna interessante que a base dos personagens seja lá
-> + O que leva à questão iminente das ___pessoas que estão percebendo a Verdade___. Mateus afirma que seu personagem, que será um ex-detetive durão, tem um amigo investigador com o qual ele conversou sobre esses eventos. O nome dele é ___Jeremy Chang___ e parece curtir uns lances de ___Misticismo, C'hi Kung e Feng Shui___. Apesar das risadas iniciais, algo aparenta ter a mais na jogada.
-> + Por fim, eles decidem colocar uma Face para a questão iminente de que **"As Brumas de Avalon irão se desfazer!"**: uma estranha mulher, que se apresentou como _Morgause_, apareceu diante deles quando eles apareceram no _Strawberry Fields_. Ela aparenta saber muito mais do que diz, mas eles decidem que não é hora de colocar Aspectos sobre ela, deixando por conta de Lúcio ir preenchendo as lacunas conforme os acontecimentos.
+A _Dificuldade_ de um veículo continua sendo chamada assim, indicando falhas de projeto, situações adversas, baixa potência e coisas assim.
 
-As Faces então seriam:
+As _Abordagens_ passam a ser conhecidas como _Capacidades_ que indicam fatores em comum entre todos os veículos:
 
-> + ___Sr. Tumnus___, um mendigo meio louco que vive em Strawberry Fields
->    + ___Aparenta Saber mais do que Diz___
->  + ___Jeremy Chang___, um investigador da polícia de Nova York
->    + ___Misticismo, C'hi Kung e Feng Shui___  
->  + ___Morgause___, uma mulher estranha que apareceu quando eles "voltaram"
++   **Motor:** o quão eficiente o motor é, o que indica, por exemplo, sua velocidade
++   **Chassis:** indica a resistência do veículo
++   **Manobrabilidade**: o quão fácil é guiar o carro
++   **Espaço:** o quão grande o veículo é, indicando possivelmente número de pessoas ou capacidade de carga do mesmo
++   **Tecnologia**: opções extras do carro, como GPS ou radiocomunicação, que possam ajudar na pilotagem
++   **Conforto**: simples assim
 
-E os Locais:
+As _Façanhas_ passam a se chamar de _Manobras_, com o mesmo funcionamento das Façanhas.
 
-> + ___Nova York___, onde tudo acontece
-> + ___Strawberry Fields___, onde eles "voltaram" à nossa realidade e onde se encontram
-> + ___Flat no Edifício Dakota___ que funciona como base de operações dos personagens
->   + ___Ar de Mistério___
+Carros também possuem uma _Estrutura (Estresse)_ e podem receber _Dano Estrutural (Consequências)_. A não ser que você pretenda usar esse sistema para algum tipo de _wargame_ baseado em carros, os mesmos não poderiam ter _Pontos de Destino_ ou _Recarga_. Porém, você pode optar por oferecer _Upgrades_, que funcionam como a _Recarga_ exclusivamente para fins de adicionar Manobras Extras.
 
-Com isso, eles podem começar a planejar melhor as coisas, preenchendo alguns detalhes sobre como a campanha irá funcionar.
+Já temos as regras sobre como descrever um carro, basta agora definir algumas regras sobre se o carro pode se pilotar possível, se o piloto pode ter sua habilidade de _Condução_ capada por alguma das Capacidades e assim por diante.
 
-> Eles pensam que terá que ter algum tipo de magia, até por ser Fantasia Urbana, mas como os poderes mágicos dos personagens serão pequenos e restritos, eles decidem deixar Lúcio pensar em algo mais profundo sobre magia para o futuro, conforme a necessidade.
-> 
-> Entretanto, os poderes de Escopo serão necessários de serem pensados. Lúcio sugere que cada um indique como _**Permissão**_ ao criar seus personagens o __*Escopo*__ do personagem, que tipo de Fábula ou personagem de Contos de Fadas do qual herdaram poderes. Isso torna interessante até pela Questâo gerada pelos __*Poderes em Troca de Memórias*__ **"Quanto eu sou eu e quanto eu sou a Fábula?"**. Desse modo, ele poderá Forçar tal Aspecto para fazer o comportamento dos personagens lembrar os Contos que os mesmos representam, mas os personagens poderão o invocar para obter habilidades ou conhecimentos fora do que seria normal.
-> 
-> Como ___Custo___, ele decide que os personagens podem gastar _Façanhas_ para ganharem poderes ou capacidades especiais conforme a necessidade, baseado no seu Escopo. Ele não oferece nenhuma Façanha adicional, mas decide que trabalhará com o padrão do Fate Básico de 3 Façanhas Gratuítas + 3 de Recarga, podendo baixar 1 de Recarga para obter Façanhas Extras.
-> 
-> De resto, ele pensa apenas em adicionar uma Perícia adicional, _**Fábulas**_ que funciona como uma forma de entender o conhecimento dos personagens em relação aos Contos de Fadas e aos eventos aos quais foram colocados quando receberam (provavelmente a contragosto) o seu _**Escopo**_. Ele decide que essa Façanha basicamente funciona como um paralelo de _**Conhecimentos**_, sem muitas diferenças. 
-> 
-> Por fim, ele muda um pouco a ideia do Trio de Fases, sendo que ele chamará a Fase Um de ___Abdução___ e as outras duas Fases de ___Retorno___ e ___Adaptação___, indicando os momentos em que os personagens foram levados da nossa realidade, o que aconteceu quando eles voltaram e como eles lidaram com o que se tornaram.
-> 
-> Antes de os jogadores criarem seus personagens, Lúcio decide chamar a campanha de _"Fae Guardians - Guardiões das Fábulas"_. Um nome bem clichê, mas funcional.
- 
+Exemplo:
+
+#### O Toyota Celica Trueno AE-86 entregador de Tofu
+
+Um carro quase lendário, é visto no Monte Akina, onde seu piloto desce a montanha a velocidade e tempo incapaz de ser alcançado por alguns dos melhores pilotos de _drift_ com as máquinas mais poderosas e caras que se pode imaginar. Apesar de antigo, ele é extremamente velos é capaz daquilo que se propõe.
+
+##### Características
+
++ _**Característica Principal:**_ O Carro Impossível do Monte Akina
++ _**Dificuldade:**_ Inteiro praticamente na base do _Silver Tape_
++ O que tem de antigo, tem de rápido
+
+##### Capacidades
+
+|  ***Capacidade*** | ***Nível***         |
+|------------------:|---------------------|
+|         _Chassis_ | _**Razoável (+2)**_ |
+|        _Conforto_ | _**Regular (+1)**_  |
+|          _Espaço_ | _**Regular (+1)**_  |
+| _Manobrabilidade_ | _**Razoável (+2)**_ |
+|           _Motor_ | _**Bom (+3)**_      |
+|      _Tecnologia_ | _**Medíocre (+0)**_ |
+
+##### Manobras
+
++ __*Freio Esportivo:*__ Devido aos freios esportivos instalados no mesmo, pode usar _Manobrabilidade_ ao invés de _Tecnologia_ em ações de _Criar Vantagem_ para frear o carro no último momento, mantendo o momentum
++ __*Motor Tunado:*__ +2 em rolamentos envolvendo _Motor_ para aumentar a velocidade além dos limites
+
+## Por que usar Extras o Fractal do Fate
+
+Na prática, ao usar mecanismos de Extras e o Fractal do Fate, você ganha uma vantagem de não precisar estar reinventando a roda, aproveitando de características já testadas do sistema ao invés de ter todo o trabalho de inventar muitas regras e testá-las. 
+
+Além disso, você pode introduzir todo tipo de elemento não previamente cogitado de maneira extremamente rápida: não previu o uso de magia na campanha de Cyberpunk? Sem problemas: crie uma _**Permissão**_ de ter acesso a alguns livros de magia  (Aspecto) e modifique o comportamento de alguma perícia (ou crie uma nova), com algumas Façanhas representando especializações mágicas.
+
+Ao oferecer o Fractal do Fate, o Fate oferece uma maneira extremamente rápida e elegante de personalizar-se o sistema sem incorrer em subsistemas que podem gerar inconsistências quando colocados diante de outros subsistemas ou a necessidade de obter-se uma grande quantidade de suplementos e regras adicionais para gerar seu cenário e aquilo que é necessário.
+
 ## Conclusão
 
-Como pode-se ver, criar um cenário em Fate não é algo exatamente complicado: a maior parte das coisas podem ser resolvidas apenas escrevendo informações na Ficha de Criação de Jogo ou em algum bloco ou cartões que você possa sempre ter como referência. Não se faz necessário criar tudo: você pode ir preenchendo detalhes conforme os acontecimentos. O mesmo vale para detalhes sobre vilões e afins: pode ser mais interessante deixar que a _narrativa emergente_ traga essas informações, e depois todos trabalharão melhor tais informações. 
+Os Extras e o Fractal do Fate aparentam ser difíceis de serem entendidos, não por sua complexidade, mas pelo fato de que eles podem trabalhar em tantas funções e de maneiras tão flexíveis  que pode ser algo assustador diante do narrador ou jogador inexperiente, mas basta um pouco de calma e alguns instantes refletindo sobre ele que você rapidamente será capaz de criar todo tipo de fractal.
 
-No próximo artigo, falaremos sobre a _Criação do Personagem_ _per se_, sobre como distribuir perícias, como definir seus Aspectos e Façanhas, e cuidados a se ter ao utilizar cenários prontos do Fate, em especial aqueles que tenham regras especiais.
+De fato, com o tempo, pensar em Fractais para resolver suas necessidades de jogo se torna quase um instinto para criar-se e resolver-se situações de maneira rápida.
+
+No nosso próximo artigo, vamos mostrar como criar um cenário em Fate, como escolher as Questões, definir a grandeza e como usar isso para preparar o caminho para os jogadores criarem seus personagens.
 
 Até lá... Role +4!
 
-[fate-criacenario]: http://fatesrdbrasil.gitlab.io/fate-srd-brasil/fate-basico/estruturando-o-jogo/
-[tvtropes]: http://tvtropes.org
-[^1]: Alerta: você provavelmente perderá horas e horas de produtividade no mesmo. Consuma com moderação
+[iniciando-aspectos]: https://www.dungeongeek21.com/bg/iniciando-no-fate-aspectos
+[dgw-facanhas]: https://www.dungeongeek21.com/bg/iniciando-no-fate-facanhas
+[fatesrd-extras]: http://fatesrdbrasil.gitlab.io/fate-srd-brasil/fate-basico/extras/
+[srd-poderes]: http://fatesrdbrasil.gitlab.io/fate-srd-brasil/fate-basico/criando-um-extra/
+[srd-ideais]: http://fatesrdbrasil.gitlab.io/fate-srd-brasil/fate-basico/ideia-personagem/
+[srd-exemplopoderes]: http://fatesrdbrasil.gitlab.io/fate-srd-brasil/fate-basico/criando-um-extra/#extra-poderes-mentais
+[srd-elementosextras]: http://fatesrdbrasil.gitlab.io/fate-srd-brasil/fate-basico/criando-um-extra/#atribuindo-elementos-ao-personagem
+[srd-definicaofractal]: http://fatesrdbrasil.gitlab.io/fate-srd-brasil/fate-basico/extras/#a-regra-de-bronze-ou-fate-fractal
+<!--  LocalWords:  fatesrd-extras Bandu extendida Harry Potter Argus
+ -->
+<!--  LocalWords:  Filch srd-poderes Neville Longbottom Hogwarts Rony
+ -->
+<!--  LocalWords:  Granger srd-exemplopoderes srd-elementosextras SUV
+ -->
+<!--  LocalWords:  iniciando-aspectos Frodo Elrond Psiônicos Babylon
+ -->
+<!--  LocalWords:  WEASLEY Animago super-especialização duplicidadade
+ -->
+<!--  LocalWords:  Dresden Accelerated Fudge srd-definicaofractal AE
+ -->
+<!--  LocalWords:  fractalizadas SLIP fractalizada LionHeart Clip
+ -->
+<!--  LocalWords:  clip World POOF Akina wargame Celica Trueno drift
+ -->
+<!--  LocalWords:  Silver momentum Cyberpunk srd-ideais
+ -->
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzMDYzNjY1OF19
+eyJoaXN0b3J5IjpbLTQyMzEyMTk4NCwxOTMwNjM2NjU4XX0=
 -->
