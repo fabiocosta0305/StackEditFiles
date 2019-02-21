@@ -2,9 +2,9 @@
 
 ## Chapter 1
 
-&amp;gt; _"Metrocon is a great experience for every cape... You know, is the_ Breakthrough Mecca, _and is nice to see, for us from_ Herós Sans Frontières, _that we are also inspiration for fans and new capes."_
-&amp;gt;
-&amp;gt; **Jiminy Cricket, _"From Dress-up to save up: an underage breakthrough story"_**
+> _"Metrocon is a great experience for every cape... You know, is the_ Breakthrough Mecca, _and is nice to see, for us from_ Herós Sans Frontières, _that we are also inspiration for fans and new capes."_
+>
+> **Jiminy Cricket, _"From Dress-up to save up: an underage breakthrough story"_**
 
 Jiminy was back to the _Herós Sans Frontières_ booth at the _Metrocon_, the biggest cape fandom event all around the world, limping a little, supporting his weight in part using a beautiful cane with a Jiminy Cricket head Dumont made him. Part of _National CAI Conference_, the biggest CAI training and expo event, _Metrocon_ was part confraternization, part _fanservice_, part festival, part headhunting. 
 
@@ -180,9 +180,9 @@ And, blushing, Jiminy and Djanni did.
 
 ## Chapter 2
 
-&amp;gt; _"Parenting a breakthrough is not a too much different thing from parenting a common kid. I know their powers can be really spooky: my son could force his will against me, if he wanted to. But YOU are the adult and need to make it clear: even with their powers, you'll be always respected if you put yourself on their side and show them the right way to grow up and deal with their powers. More than ever, breakthrough kids needs support from their parents: the great powers bring them great responsibility. And this could only be achieved with the parents' support."_
-&amp;gt;
-&amp;gt; **Michael &amp;amp; Selena McCarthy, _"Superdads: Parenting kids, breakthrough or not"_**
+> _"Parenting a breakthrough is not a too much different thing from parenting a common kid. I know their powers can be really spooky: my son could force his will against me, if he wanted to. But YOU are the adult and need to make it clear: even with their powers, you'll be always respected if you put yourself on their side and show them the right way to grow up and deal with their powers. More than ever, breakthrough kids needs support from their parents: the great powers bring them great responsibility. And this could only be achieved with the parents' support."_
+>
+> **Michael & Selena McCarthy, _"Superdads: Parenting kids, breakthrough or not"_**
 
 After Metrocon, HWB gave some days off duty for Joshua's team. They discovered Kyle was lynched at the Reformatory during a riot and undergone breakthrough, at least other 3 kids died because the plasma he shot from his hand. He was considered a dangerous breakthrough and had ran away before Hillwood guys could take him, and got to Metrocon to rob people, when discovered about Joshua. So, he chose to use a possible kill from Joshua as a banner for criminal agenda. He now would be sent to the juvenile section of Detroit Supermax. 
 
@@ -262,11 +262,11 @@ _"Alright. Go on, kids, do your best."_ said Joshua's, Eileen's and Altayr's par
 
 ## Chapter 3
 
-&amp;gt; _"**Natural Charlie Foxtrot (NCF):** Dispatch code for a big natural catastrophe that could provoke so much damage like a fight between capes. **See Also: Code Red**. In case of a Natural Charlie Foxtrot,_ Herós Sans Frontières' _Situation 2 team leaders can engage_ CAI Under Civil _at their discretion._
-&amp;gt;
-&amp;gt;_**CAI Under Civil (CUC):** exceptional situation where a CAI team that was on bench or otherwise out of field can be deployed without the cape identity being ready. This situation can be engaged by_ Herós Sans Frontières' _Situation 2 team leaders under discretion in some very specific situation, like in a_ Natural Charlie Foxtrot. _**See Also: Hero Under Civil, Naked Cape.** Only capes that need extra preparation and equipment, like Verne, Merlin and so are authorized to take equipment and costumes under a CUC. Even into CUC, all_ Herós Sans Frontières' _capes should be badged with their crests and HSF badges and should communicate under capenames"_
-&amp;gt;
-&amp;gt;_**Herós Sans Frontières'** Field Operations and Protocols Manual._
+> _"**Natural Charlie Foxtrot (NCF):** Dispatch code for a big natural catastrophe that could provoke so much damage like a fight between capes. **See Also: Code Red**. In case of a Natural Charlie Foxtrot,_ Herós Sans Frontières' _Situation 2 team leaders can engage_ CAI Under Civil _at their discretion._
+>
+>_**CAI Under Civil (CUC):** exceptional situation where a CAI team that was on bench or otherwise out of field can be deployed without the cape identity being ready. This situation can be engaged by_ Herós Sans Frontières' _Situation 2 team leaders under discretion in some very specific situation, like in a_ Natural Charlie Foxtrot. _**See Also: Hero Under Civil, Naked Cape.** Only capes that need extra preparation and equipment, like Verne, Merlin and so are authorized to take equipment and costumes under a CUC. Even into CUC, all_ Herós Sans Frontières' _capes should be badged with their crests and HSF badges and should communicate under capenames"_
+>
+>_**Herós Sans Frontières'** Field Operations and Protocols Manual._
 
 Kuntur, Djanni and Dumont flew, respectively, Hufflepuff, Jiminy and Soldaire (Sugarplum could flew herself) till the City Hall, Jiminy giving the directions. They could see that some of the most old constructions were almost into dust, and some streets were broken, water flowing from the cracks showing the plumbing also got broken. Some small fires were being fought by civilians, and here and there some D-Class breakthrough were helping in the first action.
 
@@ -416,9 +416,9 @@ _"Okay. I don't think you will need to do this."_ said Jiminy, getting into the 
 
 ## Chapter 4
 
-&amp;gt; _"My_ Pretty Please! _is not totally reliable: I can't make people goes violent or does this that they could not do otherwise. So, half of the success for_ Pretty Please! _involves to know the target and his motivations. After that, it's easy to use my powers."_
-&amp;gt;
-&amp;gt; **_Jiminy Cricket_, answering a question at _Blue Peter_, BBC**
+> _"My_ Pretty Please! _is not totally reliable: I can't make people goes violent or does this that they could not do otherwise. So, half of the success for_ Pretty Please! _involves to know the target and his motivations. After that, it's easy to use my powers."_
+>
+> **_Jiminy Cricket_, answering a question at _Blue Peter_, BBC**
 
 _"First of all, sir, let me see your woman. I'll talk with Dispatch for medic support."_ said Jiminy, hands up, looking for mr. McNamara.
 
@@ -624,9 +624,9 @@ _"It was what all of us wants, Jiminy."_ said Dumont, engaging Jiminy's harnesse
 
 ## Chapter 5
 
-&amp;gt; _"Stressful situations always showed the best and the worst of humanity. It would not be different with breakthrough."_
-&amp;gt;
-&amp;gt; _**Richard 'LionHeart' McInroy**, on "Musings from_ Herós Sans Frontières _Breakthroughs."_,  Herós Sans Frontières
+> _"Stressful situations always showed the best and the worst of humanity. It would not be different with breakthrough."_
+>
+> _**Richard 'LionHeart' McInroy**, on "Musings from_ Herós Sans Frontières _Breakthroughs."_,  Herós Sans Frontières
 
 Some days had passed and now the city was recovering and they were put into the rotation with the other CAI teams until the Code Red situation would be lifted. As an emergency, the McCarthy house was turned into a makeshift of a HWB base for the team, so it was very crowded.
 
@@ -712,9 +712,9 @@ _"What?"_ said Jiminy
 
 ## Chapter 6
 
-&amp;gt; _"I'll never understand Paladins or Humanity Firsters. They call us breakthrough freaks, but they attack not only us, but our families, and everyone even remotely connected with us. They think they have the right to kill us. Why? I have no answer. No matter how much we help people, they believe we should get away. It's sad that they think on us to people to be slaved or, worse, killed."_
-&amp;gt;
-&amp;gt; **Jiminy Cricket, _"From Dress-up to save up: an underage breakthrough story"_**
+> _"I'll never understand Paladins or Humanity Firsters. They call us breakthrough freaks, but they attack not only us, but our families, and everyone even remotely connected with us. They think they have the right to kill us. Why? I have no answer. No matter how much we help people, they believe we should get away. It's sad that they think on us to people to be slaved or, worse, killed."_
+>
+> **Jiminy Cricket, _"From Dress-up to save up: an underage breakthrough story"_**
 
 Jiminy and Cajun ran to Jiminy's home, and he saw there's already some rioters breaking through the house and setting it on fire. They were not protesters, but rioters, with lots of baseball bats, machetes and molotov cocktails.
 
@@ -834,9 +834,9 @@ And cried like the kid that, in the end, he always was.
 
 ## Chapter 7
 
-&amp;gt; _"Sometimes, people thinks that, when you do good things, it's just your obligation. But if you fail, you're incompetent or, worse, ill-intended. How difficult is for us to also praise the good things? I know that you should do good things just because they are good and right... But why not say about good examples?"_
-&amp;gt;
-&amp;gt; **Jiminy Cricket, _"From Dress-up to save up: an underage breakthrough story"_**
+> _"Sometimes, people thinks that, when you do good things, it's just your obligation. But if you fail, you're incompetent or, worse, ill-intended. How difficult is for us to also praise the good things? I know that you should do good things just because they are good and right... But why not say about good examples?"_
+>
+> **Jiminy Cricket, _"From Dress-up to save up: an underage breakthrough story"_**
 
 Jiminy was just looking through the window, while the freighter was getting down Geneva. He was melancholic, thinking on what happened.
 
@@ -946,9 +946,9 @@ _"Mom... It's okay. They are only doing their job."_ said Joshua, hugging her mo
 
 ## Chapter 8
 
-&amp;gt; _"One of the worst experiences I had was when I was judged after the events when I lost my house. Even knowing I did everything fair and square, I feared people would condemn me just because I'm a breakthrough, my recent experience on_ Humanity First _fogging my judgement. Sometimes, I still think on why I didn't forfeit my US citizenship and accepted the refugee status Switzerland offered me... But I think that I chose to fight the Good Fight. There was too much in game, the stakes were very high. And I could not let this ruin myself as a cape or HWB."_
-&amp;gt;
-&amp;gt; **Jiminy Cricket, _"From Dress-up to save up: an underage breakthrough story"_**
+> _"One of the worst experiences I had was when I was judged after the events when I lost my house. Even knowing I did everything fair and square, I feared people would condemn me just because I'm a breakthrough, my recent experience on_ Humanity First _fogging my judgement. Sometimes, I still think on why I didn't forfeit my US citizenship and accepted the refugee status Switzerland offered me... But I think that I chose to fight the Good Fight. There was too much in game, the stakes were very high. And I could not let this ruin myself as a cape or HWB."_
+>
+> **Jiminy Cricket, _"From Dress-up to save up: an underage breakthrough story"_**
 
 Jiminy entered the room when the clerk said.
 
@@ -1194,9 +1194,9 @@ _"I would say you need it, to be just a little kid for some time for a change."_
 
 ## Chapter 9
 
-&amp;gt; _"It was fun the time I had after all this, at Disney World and Eurodisney. Two weeks of fun and no worries after three months of pressure was all I've asked for. And it was fun to have lots of freebies from Disney and so, and even engaging some parades aside Mickey and others, including the_ real _Jiminy Cricket. But I had to get back Geneva, to get back my life from where it stopped some months before."_
-&amp;gt;
-&amp;gt; **Jiminy Cricket, _"From Dress-up to save up: an underage breakthrough story"_**
+> _"It was fun the time I had after all this, at Disney World and Eurodisney. Two weeks of fun and no worries after three months of pressure was all I've asked for. And it was fun to have lots of freebies from Disney and so, and even engaging some parades aside Mickey and others, including the_ real _Jiminy Cricket. But I had to get back Geneva, to get back my life from where it stopped some months before."_
+>
+> **Jiminy Cricket, _"From Dress-up to save up: an underage breakthrough story"_**
 
 Now Jiminy's team had grow with Cajun gone off the reserve and joining the team, as a way to train either Jiminy and Djanni into combat. Djanni needed not too much training, as his powers are combat-focused, the combat only needed as a way to improve his effectiveness. The main combat training was focused on Jiminy.
 
@@ -1314,9 +1314,9 @@ But now Jiminy understood what Cajun wanted with this crazy training, and knew t
 
 ## Chapter 10
 
-&amp;gt; _"Sometimes, people doesn't believe how much we train. Even us, being a non-combat focused CAI team, we train A LOT: combat, yes... But also EMT, first aid, basic electronics, civil construction... All the kind of skills, even cooking, music, theater and ballet. Because, specially in_ Herós Sans Frontières, _we never know what we'll need to do in the field. And so the better CAI cape for us is a duck: not an specialist on anything, but a generalist, and a very good one, armed with all kind of skills!"_
-&amp;gt;
-&amp;gt; **Jiminy Cricket, _"From Dress-up to save up: an underage breakthrough story"_**
+> _"Sometimes, people doesn't believe how much we train. Even us, being a non-combat focused CAI team, we train A LOT: combat, yes... But also EMT, first aid, basic electronics, civil construction... All the kind of skills, even cooking, music, theater and ballet. Because, specially in_ Herós Sans Frontières, _we never know what we'll need to do in the field. And so the better CAI cape for us is a duck: not an specialist on anything, but a generalist, and a very good one, armed with all kind of skills!"_
+>
+> **Jiminy Cricket, _"From Dress-up to save up: an underage breakthrough story"_**
 
 The rib cage hit had raised some concerns into Jiminy and Djanni's parents, but they understood Jiminy needed some training for surviving fights in field. But Jiminy and Djanni stopped that training and got back for simulated fight and moves at Savate training.
 
@@ -1752,9 +1752,9 @@ _"Alright kid, hands up and no fun..."_ said one of them
 
 ## Chapter 11
 
-&amp;gt; _"The professional villains are not bad at all, as they play by the unwritten Rules about not get on you when civil and so. Those that are really a big problem are the Thrill ones. Many of them aren't even breakthroughs, but common people 'playing villain' trying to 'make a name' by a 'tag', a fight against a breakthrough. The biggest problem is: if you play light, they can hurt people. If you play strong, you can hurt them. It's never a good thing to be against thrill villains, even more if they know who you are."_
-&amp;gt;
-&amp;gt; **Jiminy Cricket, _"From Dress-up to save up: an underage breakthrough story"_**
+> _"The professional villains are not bad at all, as they play by the unwritten Rules about not get on you when civil and so. Those that are really a big problem are the Thrill ones. Many of them aren't even breakthroughs, but common people 'playing villain' trying to 'make a name' by a 'tag', a fight against a breakthrough. The biggest problem is: if you play light, they can hurt people. If you play strong, you can hurt them. It's never a good thing to be against thrill villains, even more if they know who you are."_
+>
+> **Jiminy Cricket, _"From Dress-up to save up: an underage breakthrough story"_**
 
 
 _"Alright, I surrender."_ said Joshua, just raising his hand. _"But don't do anything against the women at that room: one of them is still convalescing herself from a heart situation and need rest and tranquility."_
@@ -2020,65 +2020,65 @@ _"Good Luck, kid! Godspeed!"_ said Mrs. O'Mara while she saw the plane starting 
 In the photo, the graduation one, Joshua signed as _"Joshua McCarthy, **aka** Jiminy Cricket, **aka** Spotty the Clown"_
 
 
-&amp;lt;!--  LocalWords:  Jiminy Metrocon Herós Jiminy's Kwazani precog Ozma
- --&amp;gt;
-&amp;lt;!--  LocalWords:  Bellax Analytica Djanni Soldaire Seiji Shirou Seif
- --&amp;gt;
-&amp;lt;!--  LocalWords:  Roque Santeiro NCAIC aquakinetic McRae magicks El
- --&amp;gt;
-&amp;lt;!--  LocalWords:  Blackstone's Fathama Paso LionHeart Ric McInroy de
- --&amp;gt;
-&amp;lt;!--  LocalWords:  Macedo Marti Poma Paz Djanni's Hummm anime HWB XD
- --&amp;gt;
-&amp;lt;!--  LocalWords:  Relectures Leone GQ SuperMax Hillwood Superdads mr
- --&amp;gt;
-&amp;lt;!--  LocalWords:  Supermax Neverending Altayr's Tink Tremblor chico
- --&amp;gt;
-&amp;lt;!--  LocalWords:  McRaes NCF CUC Sentai Steffonson backjet OmniSpecs
- --&amp;gt;
-&amp;lt;!--  LocalWords:  LaRusso jetpack Woah thermoscan OmniSpec GPS yosei
- --&amp;gt;
-&amp;lt;!--  LocalWords:  Livestream maskcam livestreaming Baduk Weiqi Noth
- --&amp;gt;
-&amp;lt;!--  LocalWords:  babyfur cannal al salat LeClerc nornal Professeur
- --&amp;gt;
-&amp;lt;!--  LocalWords:  integrale practicioner cajun Bonjour mon ami Canne
- --&amp;gt;
-&amp;lt;!--  LocalWords:  Bâton Français Couteau Poignard Manteau initiateur
- --&amp;gt;
-&amp;lt;!--  LocalWords:  Quelle honte Criquet professeur garde thrusted LDS
- --&amp;gt;
-&amp;lt;!--  LocalWords:  Savateur Firsters molotov hitted cutted merde NYPD
- --&amp;gt;
-&amp;lt;!--  LocalWords:  pyrokinetic Aparecida McCarthys HWB's Tahans Flüus
- --&amp;gt;
-&amp;lt;!--  LocalWords:  temerary McRae's boasty villanious sweared Eretz
- --&amp;gt;
-&amp;lt;!--  LocalWords:  famemongers arrivist rebutt bono ViewTube hashtag
- --&amp;gt;
-&amp;lt;!--  LocalWords:  Instagram freejiminy Chakra Veritas DSA Brannigan
- --&amp;gt;
-&amp;lt;!--  LocalWords:  Milligan Jarreau DuBois thermokinetic sustentation
- --&amp;gt;
-&amp;lt;!--  LocalWords:  McCarthy's McKinnon Foxtrox Roix Kwazani's Sust au
- --&amp;gt;
-&amp;lt;!--  LocalWords:  DHS plasmakinetic Kuntur's Eurodisney Normals Bleu
- --&amp;gt;
-&amp;lt;!--  LocalWords:  Sacre moniteur Redux Vodoun Samedi Loa Parisién HD
- --&amp;gt;
-&amp;lt;!--  LocalWords:  Citoyéns Brack O'Mara Lauderdale Auguste mrs meds
- --&amp;gt;
-&amp;lt;!--  LocalWords:  IJC bowtie fingerless yoyo letterman clownie Heyia
- --&amp;gt;
-&amp;lt;!--  LocalWords:  whiteface melodica Aaaawwwwnnnnn Spotty's zanily
- --&amp;gt;
-&amp;lt;!--  LocalWords:  Gangnam Brack's Sor arnosed arsoned epiphaniac Neo
- --&amp;gt;
-&amp;lt;!--  LocalWords:  nazi aryan teleporting Hypertime Teleporters ing
- --&amp;gt;
-&amp;lt;!--  LocalWords:  chicanos meatshield Chasse Italien Colocation MOOC
- --&amp;gt;
-&amp;lt;!--  LocalWords:  Sukhoi teleport O'Mara's newsread tasered
- --&amp;gt;
-&amp;lt;!--  LocalWords:  underages
- --&amp;gt;
+<!--  LocalWords:  Jiminy Metrocon Herós Jiminy's Kwazani precog Ozma
+ -->
+<!--  LocalWords:  Bellax Analytica Djanni Soldaire Seiji Shirou Seif
+ -->
+<!--  LocalWords:  Roque Santeiro NCAIC aquakinetic McRae magicks El
+ -->
+<!--  LocalWords:  Blackstone's Fathama Paso LionHeart Ric McInroy de
+ -->
+<!--  LocalWords:  Macedo Marti Poma Paz Djanni's Hummm anime HWB XD
+ -->
+<!--  LocalWords:  Relectures Leone GQ SuperMax Hillwood Superdads mr
+ -->
+<!--  LocalWords:  Supermax Neverending Altayr's Tink Tremblor chico
+ -->
+<!--  LocalWords:  McRaes NCF CUC Sentai Steffonson backjet OmniSpecs
+ -->
+<!--  LocalWords:  LaRusso jetpack Woah thermoscan OmniSpec GPS yosei
+ -->
+<!--  LocalWords:  Livestream maskcam livestreaming Baduk Weiqi Noth
+ -->
+<!--  LocalWords:  babyfur cannal al salat LeClerc nornal Professeur
+ -->
+<!--  LocalWords:  integrale practicioner cajun Bonjour mon ami Canne
+ -->
+<!--  LocalWords:  Bâton Français Couteau Poignard Manteau initiateur
+ -->
+<!--  LocalWords:  Quelle honte Criquet professeur garde thrusted LDS
+ -->
+<!--  LocalWords:  Savateur Firsters molotov hitted cutted merde NYPD
+ -->
+<!--  LocalWords:  pyrokinetic Aparecida McCarthys HWB's Tahans Flüus
+ -->
+<!--  LocalWords:  temerary McRae's boasty villanious sweared Eretz
+ -->
+<!--  LocalWords:  famemongers arrivist rebutt bono ViewTube hashtag
+ -->
+<!--  LocalWords:  Instagram freejiminy Chakra Veritas DSA Brannigan
+ -->
+<!--  LocalWords:  Milligan Jarreau DuBois thermokinetic sustentation
+ -->
+<!--  LocalWords:  McCarthy's McKinnon Foxtrox Roix Kwazani's Sust au
+ -->
+<!--  LocalWords:  DHS plasmakinetic Kuntur's Eurodisney Normals Bleu
+ -->
+<!--  LocalWords:  Sacre moniteur Redux Vodoun Samedi Loa Parisién HD
+ -->
+<!--  LocalWords:  Citoyéns Brack O'Mara Lauderdale Auguste mrs meds
+ -->
+<!--  LocalWords:  IJC bowtie fingerless yoyo letterman clownie Heyia
+ -->
+<!--  LocalWords:  whiteface melodica Aaaawwwwnnnnn Spotty's zanily
+ -->
+<!--  LocalWords:  Gangnam Brack's Sor arnosed arsoned epiphaniac Neo
+ -->
+<!--  LocalWords:  nazi aryan teleporting Hypertime Teleporters ing
+ -->
+<!--  LocalWords:  chicanos meatshield Chasse Italien Colocation MOOC
+ -->
+<!--  LocalWords:  Sukhoi teleport O'Mara's newsread tasered
+ -->
+<!--  LocalWords:  underages
+ -->
