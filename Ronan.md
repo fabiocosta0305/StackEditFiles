@@ -10,6 +10,7 @@
 |                       |                                                |
 |                       |                                                |
 
+
 ## Perícias
 
 | ***Nível:***      | ***Perícia:*** | ***Perícia:*** | ***Perícia:*** | ***Perícia:*** | 
@@ -19,8 +20,7 @@
 | **Razoável (+2)** | Ofícios        | Conhecimento   | Roubo          |                |
 | **Regular (+1)**  | Furtividade    | Percepção      | Vigor          | Condução       |
 
-## Façanhas 
-
+## Façanhas [ Recarga: 3 ]
 + 
 
 ## Talismã
