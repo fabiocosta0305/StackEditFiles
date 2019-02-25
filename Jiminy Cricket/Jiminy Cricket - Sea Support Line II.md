@@ -42,4 +42,10 @@ _"Way to go, Jiminy."_ said Lesley. _"Now, you can go. As Eileen to get here in 
 
 _"Yeah... I'll take Trasport 5 to get to Malta for ressuply after the lunch and when I get back I'll tag for LionHeart. Me, Djanni, Cabby at the night."_ 
 
-_"Now that we are okay with this: I'll say Soldaire we'll need to do some exchanges on your documents, even those classified. Just red paper, but some of this could leav HSF on a problem if not followed. Also, I'll look for your stas and see if there'll be any supplement need: I don't believe it will be needed, but I'll double check. I'll check also your stats regularly, at least once in a month during next d"_
+_"Now that we are okay with this: I'll say Soldaire we'll need to do some exchanges on your documents, even those classified. Just red paper, but some of this could leav HSF on a problem if not followed. Also, I'll look for your stas and see if there'll be any supplement need: I don't believe it will be needed, but I'll double check. I'll check also your stats regularly, at least once in a month during next two or three years. I don't think there was any real problem, but better safe than sorry. You can go now, Jiminy."_ said Lesley, and Joshua got out the infirmary.
+
+He was walking to the main level in the ORSL 1 platform, sitting on one of the banks Dumont put there so they could take some time and just let the hair down. He needed so much this...
+
+_"Bees on your bucket, Jiminy?"_ said a very faint voice around him, making he springs. He looked around and saw a small, Tinkerbell-like light.
+
+
