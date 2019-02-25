@@ -48,4 +48,6 @@ He was walking to the main level in the ORSL 1 platform, sitting on one of the b
 
 _"Bees on your bucket, Jiminy?"_ said a very faint voice around him, making he springs. He looked around and saw a small, Tinkerbell-like light.
 
+_"Oh, it's you, Eileen."_ he retorted, a little angry while her 
+
 
