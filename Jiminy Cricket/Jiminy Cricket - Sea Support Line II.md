@@ -106,7 +106,7 @@ _"Hope this isn't too costly. I don't want everyone saying that I'm hogging reso
 
 _"Talked with Andrew, and this will be all_ pro bono. _Besides, some of the most exclusive costumes he does for capes all around are replicated by cosplayers, and maybe you can be a spearhead for a new product line for cosplayers that want the best. Obviously not so complete: cosplayers doesn't have to deal with supervillains on regular basis. Let us think on darker, velvety colors. This could emphasis the hair and face, and add on the mystery. Otherwise, I believe we can start on your basic design, a Victorian suit, and go from this. Andrew has already some designs, let us see if there's something you like."_ said The Harlequin, while Andrew came with a small binder.
 
-Jiminy knew that Andrew was the Gianni Versacce for cpaes: only the _creme-de-la-creme_ had access for his designs. So, he thought, Disney would already know about him and partner.
+Jiminy knew that Andrew was the Gianni Versacce for capes: only the _creme-de-la-creme_ had access for his designs. So, he thought, Disney would already know about him and partner.
 
 _"I believe that Andrew worked with Disney in the past, for some redesing on the Disney Park princess' design. And looks like they asked also for a more casual redesign for Mickey, but this is all under nondisclosure agreements."_ said The Harlequin, nonchalantly, like it was just a small fact _"Let us see..."_
 
