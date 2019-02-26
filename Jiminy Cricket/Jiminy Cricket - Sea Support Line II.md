@@ -1,3 +1,7 @@
+---
+tags: Jiminy Cricket
+---
+
 # Jiminy Cricket - Sea Support Line II
 
 ## Chapter 1
@@ -20,13 +24,13 @@ _"Good news is: even after absorbing temporaly the powers of an Omega cape, you 
 
 _"Whoa... Thanks... I need to say I was expecting to suffer some kind of setback after absorbing Santa's Mantle temporaly."_ suspired Joshua gladly
 
-_"In fact, here is the bad news: you didn't passed by this unschated... I double-checked your genetic profile based on the genetic map HSF took when you joined us and I could see that your genetics was changed by the energies involved. Nothing that can be really dangerous, but I can say that those appearence changes was turned permanent, like you took that Santa Helper Clause you talked before."_ said Lesley _"I saw also some markers on your blood and you have a low growth hormone level in your body. This means that you'll look this way: you'll not grew older in appearance. We could say that now you'll look a little Peter Pan too... And about the ears: they could be corrected surgically, but if you ask me, I would be against it."_ 
+_"In fact, here is the bad news: you didn't passed by this unschated... I double-checked your genetic profile based on the genetic map HSF took when you joined us and I could see that your genetics was changed by the energies involved. Nothing that can be really dangerous, but I can say that those appearence changes was turned permanent, like you took that Santa Helper Clause you talked before."_ said Lesley _"I saw also some markers on your blood and you have a low growth hormone level in your body. This means that you'll look this way: you'll not grew older in appearance. We could say that now you'll look a little Peter Pan too... And about the ears: they are permanent, like you had born with them. They could be corrected surgically, but if you ask me, I would be against it."_ 
 
 _"Why?"_ asked Joshua
 
-_"Surgeries are dangerous: we lost this notion now, but think that basically under a surgery you're hurting your body to do something with it. I don't think that do this for aesthetics is a good idea, and look that I'm the one the use squirrel ears as fashion."_ she said, and their squirrely ears moved by their own accord.
+_"Surgeries are dangerous: we lost this notion now, but think that basically under a surgery you're hurting your body to do something with it. I don't think that take those risks for aesthetics is a good idea, even more for a cape, and look that I'm the one the use squirrel ears as fashion."_ she said, and their squirrely ears moved by their own accord.
 
-_"But I look like an elf!"_ exclaimed Joshua _"How I'll explain this for mom, dad... Disney."_
+_"But I look like an elf!"_ exclaimed Joshua _"How I'll explain this for mom, dad... Disney!"_
 
 _"I'll prepare a report on this for Disney and so, explaining that you had contact with energies that changed partialiy your appearance, but otherwise didn't affected you. Which is truth: we just don't need to say that you almost became Santa or burnt your brain down in the process."_ said Lesley _"And about this, think on Grendel: he can't hide the monstrous appearence he has after his breakthrough, but he doesn't let this put him down. I know you'll be able to do the same."_
 
@@ -56,7 +60,7 @@ _"Well... According her, I'm totally healthy and passed almost unscathed over ab
 
 _"And... What you are worried about? It's not like you take AIDS or Cancer or anything else... You are healthy and fit for the job."_ commented Eileen
 
-_"How much time I'll be_ short stuff?" said Joshua on a little higher voice _"People don't took me seriously before and now they'll take me even less seriously: I look like a little elf kid!"_
+_"How much time I'll still be_ short stuff?" said Joshua on a little higher voice _"People don't took me seriously before and now they'll take me even less seriously: I look like a little elf kid!"_
 
 Eileen looked to him for some moments and then said: _"You have a point, Jiminy, but you are not totally right. People didn't took you seriously in the past because you were either young and less experienced. And now, looking like a little elf, maybe they'll never take you seriously. However,"_ she emphatizied _"think on the glass half-full: your powers are more useful on this way: when people don't take you too much seriously, they let their guard down, and with this you can use your_ Pretty Please! _with more chances of being successful. And your other capabilities, like_ Bellax Analytica _or your powerful mind or_ Blue Fairy _are useful, no matter how your appearance are."_ she said 
 
@@ -87,4 +91,16 @@ _"Looks someone need to stuff yourself."_ she said _"Let us have a lunch, and th
 > _"It's weird, but I don't think the glamourous life is so good. I know that some PR is part of the job of a cape, but need to say that I don't like this."_
 > *__Jiminy Cricket__, "A Living Conscience: some musings from a life Wearing the Cape"*
 
-_"Looks like you really need a glow on your look."_ said The Harlequin, looking for the costume Jiminy was using. _"I know it's okay, and you act in deserts and so, but is too much... Plain... Meh... Capes are known about style: we need to show people something over-the-top, it is what is expected on Capes. And the PR and merchandise effect on a stylish costume is better than 
+_"Looks like you really need a glow on your look."_ said The Harlequin, looking for the costume Jiminy was using. _"I know it's okay, and you act in deserts and so, but is too much... Plain... Meh... Capes are known about style: we need to show people something over-the-top, it is what is expected on Capes. And the PR and merchandise effect on a stylish costume is better than a plain costume. And I know that your Jiminy Cricket costume is sold by Disney, but based on your design, and some of the profits are reverted to_ Herós Sans Frontières."
+
+_"How do you know about this? It was an agreement Disney came with HSF when I became a cape and they tried to sue HSF for Copyright infringement?"_ said Jiminy
+
+_"I have my sources, and even being 'secret', things goes very fast behind the scene on the cape world. We are a somewhat small lot, it's easy to look for the correct gossip if you have the sources."_ The Harlequin said _"And remember that, aside my powers, I'm also trained as PR for The Sentinels."_
+
+Jiminy was into his common costume, the same he started his life as a cape:  green pants, dark green tails, blue scarf around the neck passing as a cravat for his white starched shirt topped by green waistcoat, black boots, a half mask shaped as a cricket face and a top hat. As always, he looked like like a kid that took some Dress-Up Game costume as cape costume.
+
+_"I know that this is a good costume, but we need something more... Adult... Not something that a kid could take from the Costume racks on_ Walmart. _This way, I think we can cover the base on this elf ears and cheeks thing: faces are easily conceilable behind masks, even half-masks giving the so-called Clark Kent to split you on civil from you on cape. To be honest, think we should go with Domino mask for you: your freckled face and cheek can bring some woo that could put a good mystery look on you, and this could be a nice thing. And because your strawberry blonde hair, we can go something steampunk: some brass and shiny embroidements, maybe a good pocket watch that, aside looking stylish, could be a good place to put some gizmos. The hat could go a little Mad Hatter: bigger on the top, slim on the trim, and with some brass or copper embroidements... I think Andrew already have some ideas."_
+
+_"Hope this isn't too costly. I don't want everyone saying that I'm hogging resources from HSF that could be sent for refugees or anything like this."_ talked Jiminy
+
+_"Talked with Andrew, and this will be all_ pro bono. _Besides, some of the most exclusive costumes he does for capes all around are replicated by cosplayers, and maybe you can be a spearhead for a 
