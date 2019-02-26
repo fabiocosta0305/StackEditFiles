@@ -94,7 +94,7 @@ _"Looks someone need to stuff yourself."_ she said _"Let us have a lunch, and th
 
 _"Looks like you really need a glow on your look."_ said The Harlequin, looking for the costume Jiminy was using. _"I know it's okay, and you act in deserts and so, but is too much... Plain... Meh... Capes are known about style: we need to show people something over-the-top, it is what is expected on Capes. And the PR and merchandise effect on a stylish costume is better than a plain costume. And I know that your Jiminy Cricket costume is sold by Disney, but based on your design, and some of the profits are reverted to_ Herós Sans Frontières."
 
-_"How do you know about this? It was an agreement Disney came with HSF when I became a cape and they tried to sue HSF for Copyright infringement?"_ said Jiminy
+_"How do you know about this? It was an agreement Disney came with HSF when I became a cape and they tried to sue HSF for Copyright infringement!"_ said Jiminy
 
 _"I have my sources, and even being 'secret', things goes very fast behind the scene on the cape world. We are a somewhat small lot, it's easy to look for the correct gossip if you have the sources."_ The Harlequin said _"And remember that, aside my powers, I'm also trained as PR for The Sentinels."_
 
