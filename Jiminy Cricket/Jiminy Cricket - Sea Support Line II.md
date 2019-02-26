@@ -48,6 +48,15 @@ He was walking to the main level in the ORSL 1 platform, sitting on one of the b
 
 _"Bees on your bucket, Jiminy?"_ said a very faint voice around him, making he springs. He looked around and saw a small, Tinkerbell-like light.
 
-_"Oh, it's you, Eileen."_ he retorted, a little angry while her 
+_"Oh, it's you, Eileen."_ he retorted, a little angry while her grow back the size of an young woman, as she's now 25.
 
+_"How it was with Lesley? I believe that was not so good, if you came here to see the waves."_ asked Eileen, that wasn't on her half-ballerina half-fairy costume, but on a jeans and tank top that gave some space in her back so her fairy wings could get in and out when needed. Eileen retracted the wings back her before sitting aside Joshua.
+
+_"Well... According her, I'm totally healthy and passed almost unscathed over absorbing temporaly Santa's Mantle..."_ stated Joshua, when he complimented _"However, according her, my genetic profile was changed by the sheer energy of Santa's Mantle: my pert nose and cheecks and pointed ears are permanent, as if I signed myself a Santa Helper Clause. And more: looks like I'll not grow anymore, in the biological sense."_
+
+_"And... What you are worried about? It's not like you take AIDS or Cancer or anything else... You are healthy and fit for the job."_ commented Eileen
+
+_"How much time I'll be_ short stuff?" said Joshua on a little higher voice _"People don't took me seriously before and now they'll take me even less seriously: I look like a little elf kid!"_
+
+Eileen looked to him for some moments and then said: _"You have a point, Jiminy, but you are not totally right. People didn't took you seriously in the past because you were either young and less experienced. And now, looking like a little elf, maybe they'll never take you seriously. However,"_ she emphatizied _"think on the glass half-full: your powers are more useful on this way: when people don't take you too much seriously, they let their guard down, and with this you can use your_ Pretty Please! _with more chances of being successful. And your other capabilities, like_ Bellax Analytica _or your powerful mind or_ Blue Fairy _are useful, no matter how your appearance are.
 
