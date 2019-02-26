@@ -66,4 +66,25 @@ _"Hey, Joshua. You_ grew _aside us: you were a full-fledged hero with 11, with u
 
 _"Looks like I'll be always a Pooh Bear for you, right?"_ he pouted
 
-_"You silly bear."_ she giggled _"You'll be always the same Joshua I got in the Zurich airport and was dressed into Disney clothes. Hey, I think what can help you. And we'll have a "_
+_"You silly bear."_ she giggled _"You'll be always the same Joshua I got in the Zurich airport and was dressed into Disney clothes. Hey, I think what can help you. And we'll have a bench time next week. What do you think to go to Chicago? The Harlequin invited us for a mixed team exercises with the Chicago Sentinels and Young Sentinels also. And obviously there'll be some time at The Fortress. And, I need to say, maybe we need to give a glow on your look: you're still too much Disney."_ she giggled 
+
+He huffed and puffed, but he noted he need some hair down:
+
+_"Alright. But we'll discuss this all later: need to do bring those supplies from Malta and today is night shift for me, so I want to take a lunch before taking four or five hours with Transport 5."_ he said, trying to look serious, which made him look like a spoiled brat.
+
+_"Right... I'll put The Harlequin in touch. I don't know if we'll go full power or if we'll go with our Junior team: you, me, Marjanah, Scheherazade, Lahab, Presto and Djanni."_ said Sugarplum. _"We'll need to see if Colocation, Prop, Sukhoi and Split/Second from ORSL 7 can help us."_
+
+_"Alright."_ said Joshua _"And thanks for this: I need to say that all that elf thing that happened with me is messing a little with me."_
+
+_"It's okay: you passed by an experience so rare and weird and dangerous that no one beside you can say how much it was painful. But you had passed by it alive, and there's a thing that my gramps said sometime:_ 'if you pass thorugh something dangerous alive, you did something right. Learn with the experience.' _That Ice Queen bitch was really powerful, but I saw you and your power was really over 9000. I don't think even Ozma would get alive that, even more unscathed. You are alive, so you did something right. Lear from it."_
+
+_"Right..."_ said Joshua, when his belly rumbled a little, making him blush even more.
+
+_"Looks someone need to stuff yourself."_ she said _"Let us have a lunch, and then we think about those things."_
+
+## Chapter 2
+
+> _"It's weird, but I don't think the glamourous life is so good. I know that some PR is part of the job of a cape, but need to say that I don't like this."_
+> *__Jiminy Cricket__, "A Living Conscience: some musings from a life Wearing the Cape"*
+
+_"Looks like you really need a glow on your look."_ said The Harlequin, looking for the costume Jiminy was using. _"I know it's okay, and you act in deserts and so, but is too much... Plain... Meh... Capes are known about style: we need to show people something over-the-top, it is what is expected on Capes. And the PR and merchandise effect on a stylish costume is better than 
