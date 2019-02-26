@@ -89,6 +89,7 @@ _"Looks someone need to stuff yourself."_ she said _"Let us have a lunch, and th
 ## Chapter 2
 
 > _"It's weird, but I don't think the glamourous life is so good. I know that some PR is part of the job of a cape, but need to say that I don't like this."_
+>
 > *__Jiminy Cricket__, "A Living Conscience: some musings from a life Wearing the Cape"*
 
 _"Looks like you really need a glow on your look."_ said The Harlequin, looking for the costume Jiminy was using. _"I know it's okay, and you act in deserts and so, but is too much... Plain... Meh... Capes are known about style: we need to show people something over-the-top, it is what is expected on Capes. And the PR and merchandise effect on a stylish costume is better than a plain costume. And I know that your Jiminy Cricket costume is sold by Disney, but based on your design, and some of the profits are reverted to_ Herós Sans Frontières."
