@@ -125,4 +125,12 @@ Jiminy smiled
 
 _"I like this one: is not too much out from what I'm used to, but is cool."_ said Jiminy
 
-_"Alright: I think we can do this until you need to get back ORSL 1 after the common exercises. Andrew will also ready some more formal costumes, with black pants and tails and rusty yellow waistcoat."
+_"Alright: I think we can do this until you need to get back ORSL 1 after the common exercises. Andrew will also ready some more formal costumes, with black pants and tails and rusty yellow waistcoat."_ said The Harlequin, closing the binder _"And I think that someone that saved Christmas needs the best."_
+
+_"How you know..."_
+
+_"I've said before."_ retorted smiling The Harlequin _"If you hear the gossip on the right places, you can infere more things than you can imagine."_
+
+_"And this gossip had come from a certain asset from NORAD?"_ smirked Jiminy
+
+_"You didn't heard that from those lips."_ said The Harlequin, and they all smiled a little: she knew how to do the gossip game, in fact she was a mistress on this one. _"Now... What about some lunch before the exercises?"_ said The Harlequin.
