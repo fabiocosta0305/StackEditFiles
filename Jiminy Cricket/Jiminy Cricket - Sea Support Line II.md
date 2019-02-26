@@ -103,4 +103,26 @@ _"I know that this is a good costume, but we need something more... Adult... Not
 
 _"Hope this isn't too costly. I don't want everyone saying that I'm hogging resources from HSF that could be sent for refugees or anything like this."_ talked Jiminy
 
-_"Talked with Andrew, and this will be all_ pro bono. _Besides, some of the most exclusive costumes he does for capes all around are replicated by cosplayers, and maybe you can be a spearhead for a 
+_"Talked with Andrew, and this will be all_ pro bono. _Besides, some of the most exclusive costumes he does for capes all around are replicated by cosplayers, and maybe you can be a spearhead for a new product line for cosplayers that want the best. Obviously not so complete: cosplayers doesn't have to deal with supervillains on regular basis. Let us think on darker, velvety colors. This could emphasis the hair and face, and add on the mystery. Otherwise, I believe we can start on your basic design, a Victorian suit, and go from this. Andrew has already some designs, let us see if there's something you like."_ said The Harlequin, while Andrew came with a small binder.
+
+Jiminy knew that Andrew was the Gianni Versacce for cpaes: only the _creme-de-la-creme_ had access for his designs. So, he thought, Disney would already know about him and partner.
+
+_"I believe that Andrew worked with Disney in the past, for some redesing on the Disney Park princess' design. And looks like they asked also for a more casual redesign for Mickey, but this is all under nondisclosure agreements."_ said The Harlequin, nonchalantly, like it was just a small fact _"Let us see..."_
+
+Jiminy saw design after design, until Sugarplum looked for Jiminy:
+
+_"This one looks promising, right?"_ she asked
+
+It was a dark green tails, with some engravings and embroidements on a kind of rusty gold thread. The waistcoat was on a light, leathery brown, with the same embroidments. The hat was a little like a Mad Hatter, smaller in the brim than in the top, in the same dark green. Pants on a lighter tone of green that gone into a pair of leathery boots. The shirt bellow was simple white, and there was a scarve cravat on a little "dirty" yellow, with some brown shades. The gloves were pure white and there was also a belt in rusty gold...
+
+_"Like this one..."_ looked Jiminy. _"Only the mask I have some issues. I don't think this would be good: this kind of mask sound too villainy for me... No offense, Quin."_ said Jiminy
+
+_"Appology accepted."_ said The Harlequin, that normally uses the Domino Mask. _"We can include a half-mask option."_ she said, turning the page and showing the half-mask and some extra accessories.
+
+_"For you to use on daily basis, as you need to do some maintenance on the helicopters and so, Andrew thought on this faux leather apron. This is very steampunk, even more with the cricked shaped pilot goggles that are a third option for your eyes. The clothes are all on the best fabrics, silk and satin shirts and good boots, like those used by riders."_ said The Harlequin
+
+Jiminy smiled 
+
+_"I like this one: is not too much out from what I'm used to, but is cool."_ said Jiminy
+
+_"Alright: I think we can do this until you need to get back ORSL 1 after the common exercises. Andrew will also ready some more formal costumes, with black pants and tails and rusty yellow waistcoat."
