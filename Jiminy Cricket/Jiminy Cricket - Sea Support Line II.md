@@ -58,5 +58,12 @@ _"And... What you are worried about? It's not like you take AIDS or Cancer or an
 
 _"How much time I'll be_ short stuff?" said Joshua on a little higher voice _"People don't took me seriously before and now they'll take me even less seriously: I look like a little elf kid!"_
 
-Eileen looked to him for some moments and then said: _"You have a point, Jiminy, but you are not totally right. People didn't took you seriously in the past because you were either young and less experienced. And now, looking like a little elf, maybe they'll never take you seriously. However,"_ she emphatizied _"think on the glass half-full: your powers are more useful on this way: when people don't take you too much seriously, they let their guard down, and with this you can use your_ Pretty Please! _with more chances of being successful. And your other capabilities, like_ Bellax Analytica _or your powerful mind or_ Blue Fairy _are useful, no matter how your appearance are.
+Eileen looked to him for some moments and then said: _"You have a point, Jiminy, but you are not totally right. People didn't took you seriously in the past because you were either young and less experienced. And now, looking like a little elf, maybe they'll never take you seriously. However,"_ she emphatizied _"think on the glass half-full: your powers are more useful on this way: when people don't take you too much seriously, they let their guard down, and with this you can use your_ Pretty Please! _with more chances of being successful. And your other capabilities, like_ Bellax Analytica _or your powerful mind or_ Blue Fairy _are useful, no matter how your appearance are."_ she said 
 
+_"But... About the others..."_ she said meekly
+
+_"Hey, Joshua. You_ grew _aside us: you were a full-fledged hero with 11, with us! We all know how powerful you are, and how skillfully you grew, and how competent you turned yourself on your job. We all know that you are really competent, elf ears or not."_ said Eileen _"I don't think anyone in our team would take you down because you look now like a cute elf, and take this as a cumpliment."_ she said, when Joshua looked comtemptuosly for her.
+
+_"Looks like I'll be always a Pooh Bear for you, right?"_ he pouted
+
+_"You silly bear."_ she giggled _"You'll be always the same Joshua I got in the Zurich airport and was dressed into Disney clothes. Hey, I think what can help you. And we'll have a "_
