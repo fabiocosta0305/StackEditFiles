@@ -56,7 +56,7 @@ _"Oh, it's you, Eileen."_ he retorted, a little angry while her grow back the si
 
 _"How it was with Lesley? I believe that was not so good, if you came here to see the waves."_ asked Eileen, that wasn't on her half-ballerina half-fairy costume, but on a jeans and tank top that gave some space in her back so her fairy wings could get in and out when needed. Eileen retracted the wings back her before sitting aside Joshua.
 
-_"Well... According her, I'm totally healthy and passed almost unscathed over absorbing temporaly Santa's Mantle..."_ stated Joshua, when he complimented _"However, according her, my genetic profile was changed by the sheer energy of Santa's Mantle: my pert nose and cheecks and pointed ears are permanent, as if I signed myself a Santa Helper Clause. And more: looks like I'll not grow anymore, in the biological sense."_
+_"Well... According her, I'm totally healthy and passed almost unscathed over absorbing temporaly Santa's Mantle..."_ stated Joshua, when he complimented _"However, according her, my genetic profile was changed by the sheer energy of Santa's Mantle: my pert nose and cheeks and pointed ears are permanent, as if I signed myself a Santa Helper Clause. And more: looks like I'll not grow anymore, in the biological sense."_
 
 _"And... What you are worried about? It's not like you take AIDS or Cancer or anything else... You are healthy and fit for the job."_ commented Eileen
 
