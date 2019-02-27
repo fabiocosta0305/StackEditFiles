@@ -12,34 +12,38 @@
 
 ## Papéis
 
-| ***Papel*** | ***Bizarro?*** | ***Perícias *** |
-|------------:|:--------------:|-----------------|
-|     Soldado | N              |                 |
-|   Guerreiro | N              |                 |
-|      Brigão | N              |                 |
+| ***Papel*** | ***Bizarro?*** | ***Perícias ***                     |
+|------------:|:--------------:|-------------------------------------|
+|     Soldado | N              | Atletismo, Lutar, Atirar, Vontade   |
+|   Guerreiro | N              | Lutar, Provocar, Atirar, Vontade    |
+|      Brigão | N              | Atletismo, Lutar, Provocar, Vontade |
 
 ## Perícias
 
-| ***Perícia*** | ***Nível*** |
-|--------------:|-------------|
-|        Atirar |             |
-|     Atletismo |             |
-| Conhecimentos |             |
-|      Contatos |             |
-|  Computadores |             |
-|       Direção |             |
-|    Engenhocas |             |
-|   Furtividade |             |
-|      Intuição |             |
-|         Lutar |             |
-|     Percepção |             |
-|     Persuasão |             |
-|      Provocar |             |
-|         Roubo |             |
-|      Recursos |             |
-|       Vontade |             |
+| ***Perícia*** | ***Nível***      |
+|--------------:|------------------|
+|    **Atirar** | Excepcional (+5) |
+| **Atletismo** | Razoável (+2)    |
+| Conhecimentos | Regular (+1)     |
+|      Contatos |                  |
+|  Computadores |                  |
+|       Direção |                  |
+|    Engenhocas |                  |
+|   Furtividade | Regular (+1)     |
+|      Intuição | Regular (+1)     |
+|   ***Lutar*** | Ótimo (+4)       |
+|     Percepção | Regular (+1)     |
+|     Persuasão |                  |
+|  **Provocar** | Razoável (+2)    |
+|         Roubo |                  |
+|      Recursos |                  |
+| ***Vontade*** | Bom (+3)         |
 
 ## Façanhas [Recarga: 3]
+
++ ___Venha Brincar:___ _Uma vez por episódio_, ao desafiar um NPC para uma luta mano-a-mano, ele é obrigado a aceitar e você recebe uma Invocação Gratuíta em cima dele no Conflito
++ ___Essa é minha arma:___ Você possui uma arma especial que valoriza acima das demais. Dê-lhe um _Conceito_ e uma _Dificuldade_. _Uma vez por cena_, você pode invocar um desses Aspectos sem gastar Pontos de Destino;
++ ___Manda mais que tá pouco!___ - Hordas que ataquem você não recebem bonus de Trabalho em Equipe, mas ainda o recebem quando se defenderem de seus ataques
 
 ## Estresse
 
