@@ -18,7 +18,7 @@ He just was looking for himself in the mirror: since he and part of his team hel
 
 _"Okay..."_ said Lesley _"I have  now good and bad news for your. Which of those you want first?"_
 
-_"Good, obviously."_ demanded Joshua, that is almost 17 now.
+_"Good, obviously."_ said Joshua, that is almost 17 now.
 
 _"Good news is: even after absorbing temporaly the powers of an Omega cape, you had almost no consequences. You are as healthy as always, no stats outside the standards."_ smiled Lesley, that had a really rabbity smile, by choice: she's a Metamorph cape that could change herself to any kind of animal, and she could partially change parts of herself, which she used as a kind of fashion.
 
@@ -80,7 +80,7 @@ _"Right... I'll put The Harlequin in touch. I don't know if we'll go full power 
 
 _"Alright."_ said Joshua _"And thanks for this: I need to say that all that elf thing that happened with me is messing a little with me."_
 
-_"It's okay: you passed by an experience so rare and weird and dangerous that no one beside you can say how much it was painful. But you had passed by it alive, and there's a thing that my gramps said sometime:_ 'if you pass thorugh something dangerous alive, you did something right. Learn with the experience.' _That Ice Queen bitch was really powerful, but I saw you and your power was really over 9000. I don't think even Ozma would get alive that, even more unscathed. You are alive, so you did something right. Lear from it."_
+_"It's okay: you passed by an experience so rare and weird and dangerous that no one beside you can say how much it was painful. But you had passed by it alive, and there's a thing that my gramps said sometime:_ 'if you pass thorugh something dangerous alive, you did something right. Learn with the experience.' _That Ice Queen bitch was really powerful, but I saw you under Santa's power and it was really over 9000. I don't think even Ozma would pass aliver through that, even more unscathed. You are alive, so you did something right. Learn from it."_
 
 _"Right..."_ said Joshua, when his belly rumbled a little, making him blush even more.
 
@@ -92,7 +92,7 @@ _"Looks someone need to stuff yourself."_ she said _"Let us have a lunch, and th
 >
 > *__Jiminy Cricket__, "A Living Conscience: some musings from a life Wearing the Cape"*
 
-_"Looks like you really need a glow on your look."_ said The Harlequin, looking for the costume Jiminy was using. _"I know it's okay, and you act in deserts and so, but is too much... Plain... Meh... Capes are known about style: we need to show people something over-the-top, it is what is expected on Capes. And the PR and merchandise effect on a stylish costume is better than a plain costume. And I know that your Jiminy Cricket costume is sold by Disney, but based on your design, and some of the profits are reverted to_ Herós Sans Frontières."
+_"Looks like you really need a glow on your look."_ said The Harlequin, looking for the costume Jiminy was using. _"I know it's okay, and you act in deserts and so, too much afar from the limelights, but this costume is too much... Plain... Meh... Capes are known about style: we need to show people something over-the-top, it is what is expected on Capes. And the PR and merchandise effect on a stylish costume is better than a plain costume like this. I know that your Jiminy Cricket costume is sold by Disney, but based on your design, and some of the profits are reverted to_ Herós Sans Frontières."
 
 _"How do you know about this? It was an agreement Disney came with HSF when I became a cape and they tried to sue HSF for Copyright infringement!"_ said Jiminy
 
@@ -100,11 +100,11 @@ _"I have my sources, and even being 'secret', things goes very fast behind the s
 
 Jiminy was into his common costume, the same he started his life as a cape:  green pants, dark green tails, blue scarf around the neck passing as a cravat for his white starched shirt topped by green waistcoat, black boots, a half mask shaped as a cricket face and a top hat. As always, he looked like like a kid that took some Dress-Up Game costume as cape costume.
 
-_"I know that this is a good costume, but we need something more... Adult... Not something that a kid could take from the Costume racks on_ Walmart. _This way, I think we can cover the base on this elf ears and cheeks thing: faces are easily conceilable behind masks, even half-masks giving the so-called Clark Kent to split you on civil from you on cape. To be honest, think we should go with Domino mask for you: your freckled face and cheek can bring some woo that could put a good mystery look on you, and this could be a nice thing. And because your strawberry blonde hair, we can go something steampunk: some brass and shiny embroidements, maybe a good pocket watch that, aside looking stylish, could be a good place to put some gizmos. The hat could go a little Mad Hatter: bigger on the top, slim on the trim, and with some brass or copper embroidements... I think Andrew already have some ideas."_
+_"I know that this is a good costume, but we need something more... Adult... Not something that a kid could take from the Costume racks on_ Walmart. _We need something that put some mistery on your look. This way, I think we can cover the base on this elf ears and cheeks thing: faces are easily conceilable behind masks, even half-masks giving the so-called Clark Kent to split you on civil from you on cape. To be honest, think we should go with Domino mask for you: your freckled face and cheek can bring some woo that could put a good mysterious look on you, and this could be a nice thing. And because your strawberry blonde hair, we can go something steampunk: some brass and shiny embroidements, maybe a good pocket watch that, aside looking stylish, could be a good place to put some gizmos. The hat could go a little Mad Hatter: bigger on the top, slim on the trim, and with some brass or copper embroidements... I think Andrew already have some ideas."_
 
 _"Hope this isn't too costly. I don't want everyone saying that I'm hogging resources from HSF that could be sent for refugees or anything like this."_ talked Jiminy
 
-_"Talked with Andrew, and this will be all_ pro bono. _Besides, some of the most exclusive costumes he does for capes all around are replicated by cosplayers, and maybe you can be a spearhead for a new product line for cosplayers that want the best. Obviously not so complete: cosplayers doesn't have to deal with supervillains on regular basis. Let us think on darker, velvety colors. This could emphasis the hair and face, and add on the mystery. Otherwise, I believe we can start on your basic design, a Victorian suit, and go from this. Andrew has already some designs, let us see if there's something you like."_ said The Harlequin, while Andrew came with a small binder.
+_"Talked with Andrew, and this will be all_ pro bono. _Looks like a good PR for him, also. Besides, some of the most exclusive costumes he does for capes all around are replicated by cosplayers, and maybe you can be a spearhead for a new product line for cosplayers that want the best. Obviously not so complete: cosplayers doesn't have to deal with supervillains on regular basis."_ she finished, while measuring him. _"I think we can start with darker, velvety colors. This could emphasis the hair and face, and add on the mystery. Otherwise, we can stay on your basic design with a Victorian suit, and go from this. Andrew has already some designs, let us see if there's something you like."_ said The Harlequin, while Andrew came with a small binder.
 
 Jiminy knew that Andrew was the Gianni Versacce for capes: only the _creme-de-la-creme_ had access for his designs. So, he thought, Disney would already know about him and about him redoing his cape.
 
@@ -114,17 +114,17 @@ Jiminy saw design after design, until Sugarplum looked for Jiminy:
 
 _"This one looks promising, right?"_ she asked
 
-It was a dark green tails, with some engravings and embroidements on a kind of rusty gold thread. The waistcoat was on a light, leathery brown, with the same embroidments. The hat was a little like a Mad Hatter, smaller in the brim than in the top, in the same dark green. Pants on a lighter tone of green that gone into a pair of leathery boots. The shirt bellow was simple white, and there was a scarve cravat on a little "dirty" yellow, with some brown shades. The gloves were pure white and there was also a belt in rusty gold...
+It was a dark green tails, with some engravings and embroidements on a kind of rusty gold thread. The waistcoat was on a light, leathery brown, with the same embroidments. The hat was a little like a Mad Hatter, smaller in the brim than in the top, in the same dark green. Pants on a lighter tone of green that gone into a pair of leathery boots. The shirt bellow was simple white, and there was a scarf cravat on a little "dirty" yellow, with some brown shades. The gloves were pure white and there was also a belt in rusty gold...
 
-_"Like this one..."_ looked Jiminy. _"Only the mask I have some issues. I don't think this would be good: this kind of mask sound too villainy for me... No offense, Quin."_ said Jiminy
+_"Like this one..."_ looked Jiminy. _"I have some issues only with the mask. I don't think this would be good: this kind of mask sound too villainy for me... No offense, Quin."_ said Jiminy
 
-_"Appology accepted."_ said The Harlequin, that normally uses the Domino Mask. _"We can include a half-mask option."_ she said, turning the page and showing the half-mask and some extra accessories.
+_"Appology accepted."_ said The Harlequin, that normally uses the Domino Mask. _"We can include a half-mask option if you like. Also, we can go for a zorro mask that can cover discreetly your ear tips."_ she said, turning the page and showing the half-mask and some extra accessories.
 
-_"For you to use on daily basis, as you need to do some maintenance on the helicopters and so, Andrew thought on this faux leather apron. This is very steampunk, even more with the cricked shaped pilot goggles that are a third option for your eyes. The clothes are all on the best fabrics, silk and satin shirts and good boots, like those used by riders."_ said The Harlequin
+_"For you to use on daily basis, as you need to do some maintenance on the helicopters and so, Andrew thought on this faux leather apron. This is_ very _steampunk, even more with the cricked shaped pilot goggles that are a third option for your eyes. The clothes are all on the best fabrics, silk and satin shirts and good leather high-kneeled boots, like those used by riders."_ said The Harlequin
 
 Jiminy smiled 
 
-_"I like this one: is not too much out from what I'm used to, but is cool."_ said Jiminy
+_"I like this one: is not too much afar from what I'm used to, but is cool."_ said Jiminy
 
 _"Alright: I think we can do this until you need to get back ORSL 1 after the common exercises. Andrew will also ready some more formal costumes, with black pants and tails and rusty yellow waistcoat."_ said The Harlequin, closing the binder _"And I think that someone that saved Christmas needs the best."_
 
@@ -135,3 +135,9 @@ _"I've said before."_ retorted smiling The Harlequin _"If you hear the gossip on
 _"And this gossip had come from a certain asset from NORAD?"_ smirked Jiminy
 
 _"You didn't heard that from those lips."_ said The Harlequin, and they all smiled a little: she knew how to do the gossip game, in fact she was a mistress on this one. _"Now... What about some lunch before the exercises?"_ said The Harlequin.
+
+---
+
+The exercises were intensive: as his team was really green, they learned a lot of new tricks. Sugarplum loved to act aside Ozma: as the Queen of Oz, she had lots of powers and techniques that Sugarplum could learn with her.
+
+_"Your magic tradition is totally different from what I learned with Glinda, but you're a good learner and understand easily the basics. I think you could be a great Good Witch if you had been born on Oz. Later I can gave you some tips and books on the mystic Oz Alchemy, and believe me you'll never find anything better on this on any magical realm."_ said Ozma, on the same cool, royally nonchalantly tune
