@@ -1,0 +1,190 @@
+---
+tags: Podcast, Fate Masters, Pauta
+---
+# Fate Masters Analisa - Mindjammer
+
+- Introdução ao cenário, citando premissa, resumo do cenário
+    - Fate Básico com muitas variações
+        - Fractal, Fractal _Everywhere_
+    - SciFi Transhumanisma
+        - Exploração
+        - Militar
+        - Conspiração
+        - Mistérios
+        - Transcedente
+        - Gerações
+        - Cyberpunk
+    - A Comunalidade Humana
+        - Organização que une a Transhumanidade
+            - Intrumentalidades
+                - Serviço Público
+                    -  _Armed Force Instrumentality_ - Forças Armadas
+                    -  _Internal Security Instrumentality_ - Segurança Interna
+                    -  _Space Force Instrumentality_ -  Exploração Espacial
+                    -  _Communications Instrumentality_ - Comunicação
+                    -  _Security and Cultural Integrity Instrumentality_ - Proteção contra Culturas Tóxicas
+            - Ministérios
+                - Atuam em pares com as Instrumentalidades
+                    - Planejamento Evolucionário
+            - Custódios
+                - Quem realmente manda
+                - Um por setor da galáxia
+            - Transhumanidade
+            - Limites mais fluídos
+                -  Sintéticos - criaturas artificiais
+                -  Hominídeos - variações do ser humano
+                -  Xenomorfos - animais elevados à senciência
+            - Inteligência Ubíqua
+                - Qualquer coisa pode ter inteligência
+                - _Mindjammers_
+            - Armazenamento Infinito
+            - Interfaces Discrecionais
+                - _Thoughtcast_
+                - A Heresia da Transmigração
+            - Percepção Ubíqua
+            - Energia Abundante
+                - Energia de Ponto Zero (ZIP)
+            - Antigravidade Ubíqua
+            - Sem comunicação FTL
+            - _Mindjammers_ responsáveis pela Informação Fluir
+            - Miniaturização Extrema
+            - Tornando-se "pós"
+        - _Mindspace_
+            - Internet + VR
+            - Depósito de conhecimentos e memórias (_engramas_)
+            - Acessíveis por implantes genúricos
+                - Genúricos - Alteração Genética + Implantes
+            - Tecnopsi: _Mindspace_ influenciando na realidade
+            - Halo: _"Extensão"_ da pessoa dentro da Mindspace
+                - Pode ser Hackeada - usar os implantes do alvo
+            - _Thoughcast_
+                - Tecnotelepatia
+                - Precisa do ID da pessoa no _Mindspace_
+            - _Exomemory_
+                - Transmitir
+            - Memoplex
+                - Coleção de memórias (_skill chips_?)
+            - Tanogramas
+                - Invasivos - últimas memória e não podem ter a transmissão interrompida
+            - Sensorview 
+                - Broadcast de notícias
+            - Comunicação _Gestalt_
+                - Próximo passo de comunicação?
+                - Combina todos os elementos da comunicação
+            - Sentinelas
+            - Ficcionais
+            - _Chronodisplacement_
+            - Instâncias
+                - Comunicações não são FTL
+                - Providas e atualizadas pelas _Mindjammers_
+- Analisar material 
+	- qualidade de artes, 
+	- aparência, 
+	- estilo
+- Analisar regras 
+	- mudanças
+	- Novas regras
+        - Estresse: Físico, Mental e Crédito
+        - Halo: Amplificações parte do _Mindscape_, incluem _Tecnopsi_
+        - Tech Levels: O que os personagens podem usar
+            - Depende da Cultura dos Personagens
+            - TL altos podem não ser vantajosos
+        - Gravidade Habitual do Personagem
+            - 1 G
+        - Criação de Personagem
+            - Ambiente
+            - Escolher onde as coisas vão se passar: Espaço gigante
+            - Conceito, Cultura, Genótipo, Ocupação, Dificuldade e Trio das Fases
+            - Culturas são Fractais
+              - Afetam a disponibiidade de Genótipos, TL e acesso ao _Mindscape_
+            - Genótipos podem demandar aplicação de Aspectos ou Extras
+              - Xenomorfos possuem a Divergência do Genótipo
+                  - -4 a -4 (negativo = mais próximo do genoma animal)
+              - Sintéticos
+                  - Eidolons
+                      - Personalidades construídas a partir de _tanagoramas_ (memórias residuais de uma pessoa morta)
+                      - Mecânicos = Robôs
+                      - Orgânicos = Replicantes
+                      - Instalações = Naves/Veículos/PRÉDIOS sencientes
+                      - Sintéticos _Básicos_ não possuem personalidade de início, embora possam a desenvovler
+                 - Crise de Eidolon
+                      - Estabilidade do Eidolon
+                        - Integridade
+                        - Estabilidade
+                        - Ausência de Psicose
+                        - Ausência de Neurose
+                  - Hominídeos (Homo Variens)
+                    - Variações extremas do genoma humano
+                      - Chembu: Manipuladores genéticos
+                        - Mentes coletivas
+                        - Ambientes Aquáticos
+                        - Psiônicos (??)
+                      - Jawawyn
+                        - Cidades Espaciais com baixa gravidade
+                      - Hydragand-Dezimeer
+                        - Simbióticos
+                        - Tecnologia Orgânica
+                      - Viri
+                        - Pele seca e verde como a de répteis
+                        - Estudiosos, Lógicos e Artistas
+                      - Alienígenas
+                        - Hooyow
+                          - Guerreiros Canibais Monstruosos
+                          - Vidas Curtas
+                          - Inteligentes, mas primitivos
+                        - Lowhigh
+                          - Cegos e surdos, "ouvem" tudo
+                      - Regras para criação de novos genótipos (Fractal)
+            - Ocupações
+              - Oferecem certas Permissões (acesso a equipamentos, implantes, etc...)
+                - _Builds_: sugestões de construção de personagem dentro de uma ocupação
+            - Aspectos, Perícias e Façanhas
+              - Padrão do Fate
+              - Genótipos podem demandar alguns deles, assim como as ocupações podem oferecer algumas
+            - Extras
+              - _Shift Rating_ - Aplicado ao resultado do rolamento bem-sucedido (Weapon/Armor)
+              - Habilidades - Iéias abstratas que representam benefícios obtidos por vários meios
+              - _Halo_ - agrega todos os benefícios relativos à _Mindscape_
+                - _Skill Chips_ - Acessa memórias de especialistas em uma área
+              - Índice de Controle - Chance de se obter algo
+        - Esforço Extra
+            - Queimar Estresse para Bônus
+        - Escala de Tempo
+            - Ao estilo do _Espírito do Século_
+        - Escala de Tamano
+            - Sistema de _Secrets of the Cats_
+              - -2 para rolamento / -4 na tensão (para o menor)
+              - -2 para rolamento / +4 na tensão (para o maior)
+        - Doenças
+            - Conflitos entre _Vigor_ do alvo e _Intensidade_ da Doença
+        - Organizações (Policies)
+            - Fractal
+            - Conceito, Aspectos, Escala
+            - Perícias
+        - Plot Stress
+            - Countdown
+    - Fractais
+        - Culturas
+            -  Memes - Aspectos da Cultura
+            -  Escala e Alcance
+            -  Subculturas
+            -  Operações Culturais pela Comunalidade
+                -  Evitar Contaminação Cultura por Memes Tóxicas
+            -  Interdição - Estágio 0
+                -  Quando uma Colônia Perdida é encontrada
+                -  Foco na remoção de Memes Tóxicas
+            -  Estágio 1
+                -  Apresentação da Comunalidade como Algo positivo
+                -  Torna o alvo uma subcultura
+            -  Estágio 2 - Normalização
+            -  Estágio 3 - Aculturamento
+            -  Estágio 4 - Integridade Cultural
+        - Políticas
+        - Organizações
+        - Mundos e Civilizações
+        - Vidas Alienígenas
+        - Naves
+- Indicar aproveitamento de ideias
+    - Qualquer scifi
+- Rankear
+

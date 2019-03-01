@@ -1,0 +1,166 @@
+---
+tags: Fate Masters, Pauta, Tachyon Squadron , Fate Master Analisa, Podcast
+---
+# Fate Masters Analisa Tachyon Squadron
+
+- Introdução ao cenário, citando premissa, resumo do cenário
+    - Fate Básico
+    - Cenário de Guerra Espacial
+        - Grupos sairam da terra e formaram entidades políticas
+        - As mais poderosas
+            - República Estelar
+                - Onde fica a velha e boa Terra
+                - Falha, mas democrática "de maneira geral"
+            - Domínio Unificado
+                - Militarista e expansionista
+                - Ligada a uma dinastia monárquica com culto a personalidade
+        - Onze anos após a Guerra Galática
+            - Armistício com "guerras de atrito"
+                - Guerra Fria?
+        - Apenas um ano depois, Draconis tornou-se independente do Domínio
+            - A República não reconhece oficialmente
+            - Uma Guerra por Procuração aparecendo?
+        - Não é uma sociedade pós-escassez: ainda existe miséria
+        - As pessoas tendem a ser tolerantes
+    - Personagens são Pilotos de Caças Espaciais
+        - Grupo de Voluntários de Draconis - Esquadrão Tachyon
+        - Procuram manter a independência de Draconis contra duas grandes forças estelares
+        - Outros problemas
+            - Pirataria
+            - Rivalidades e escaramuças entre esquadrões
+        - Agressivos e confiantes
+            - Maverick
+        - Tem todo um linguajar próprio
+        - O _Dicta Boelcke_
+            - Oswald Boelcke - ensinou o Barão Vermelho
+                - Formalizou e estudou as formas de tática em combate aéreo
+                - Mantido no combate espacial
+    - Space Opera e SciFi Militar
+        - BSG, Babylon V, Star Wars
+    - Tecnologia tem certos avanços (ou não)
+        - Sem comunicações FTL
+        - Clonagem de órgãos é possível, mas cibernéticos não são "melhorias"
+        - Viagens FTL são comuns
+    - Sem raças alienígenas, robôs ou AIs sencientes
+- Analisar material 
+	- qualidade de artes, 
+	    - Não há como analisar
+	- aparência, 
+	    - Limpo
+	- estilo
+	    - Limpo e discreto, como é de praxe da Evil Hat
+- Analisar regras 
+	- mudanças
+	    - Estresse não cura automaticamente
+	        - Necessário "despressurizar"
+	            - Vícios
+        - O _Callsign_ é importante 
+        - Aspecto de _Descompressão_
+            - Substitui a _Dificuldade_
+            - Inclui dois elementos
+                - Maneira Sadia e Ruim de extravasar
+                - _Meditação Kundalini/Mulherengo_
+        - Relacionamentos são importantes
+            - Amizades, rivalidades...
+        - Perícias divididas em três grupos:
+            - Pilotagem Espacial, Ação e Social
+            - Coloque uma de cada uma das Perícias de Pilotagem Espacial em cada um dos níveis da Pirâmide
+        - Estresse como _Barra_:
+            - Pode-se marcar múltiplas caixas, mas cada uma vale 1
+            - Como ocorre com capangas
+                - _**GOOOOOOOOOSSSSSSSSEEEEEEEEEE!!!!!!!!!!!**_
+            - Dano pode vir de fontes "externas"
+                - Ver um aliado morrer
+                    - 4 de estresse na primeira vez, reduz em um para cada vez seguinte
+                - Perder noite de sono
+                    - 2 na primeira noite + 2 para cada noite consecutiva
+                - 
+        - Equipamentos: Façanhas que não reduzem a Recarga
+            - Podem possuir _Aspectos_ que são tratados normalmente
+	- Novas regras
+	    - Sistema tático de combate espacial: _engagement_ (Confronto)
+	        - Extremamente descrito: 48 páginas 
+	        - Sistema de combate tático em fases
+	            - Detecção
+	                - Rolamentos por Tecnologia
+	                    - GM bate o melhor PC: uma nave do GM fica _não detectada_ (à escolha do mesmo)
+	                    - GM fica entre os resultados dos PCs: todas as naves foram _detectadas_
+	                    - Pior rolamento dos PCs melhor que o do GM: uma nave fica _não detectada_ (todas se for um sucesso com estilo)
+	                    - Fragatas e outros veículos grandes sempre são detectados
+	            - Manobras
+	                - A Tabela de Manobras
+	                    - Naves detectadas: Rola Tática e posiciona no resultado (ou abaixo, se desejado).
+	                    - Não-detectadas: Fica em uma sessão _Não-Detectada_ da Tabela (acima das demais)
+	                    - Naves grandes: Fica em uma Sessão _Especial_ (abaixo das demais)
+	                    - Certas situações  demandam um novo rolamento de Tática
+	                        - Ficar na cola de alguém
+	                        - Ter estado na cola de alguém
+	                        - ter passado o primeiro turno Não-detectado
+	                        - Voltar de uma mudança de zona de combate
+	                    - _Bug Out_ (Fuga) ou mudar de zona de combate coloca sua nave em _Especial_
+	            - Ações
+	                - Na sequência da tabela
+	                - Naves na mesma "sequência" agem de maneira "simultânea"
+	                    - Não muito diferente de um conflito
+                    - Dois passos dentro do turno de Ação
+                        - Certas ações só podem ocorrer em um dos passos, ou no outro, ou demandam os dois passos
+                    - Pode ser atacado qualquer alvo no seu nível na tabela de Manobra ou abaixo
+                    - Algumas ações:
+                        - Ataque Desesperado (ambos os passos)
+                        - Atacar alvos grandes (ambos os passos)
+                        - Ficar na cola (ambos os passos)
+                        - Tiro no alvo (Passo 1)
+                        - Criar vantagem ou superar (Passos 1 ou 2)
+                        - Forçar (Passo 2)
+                        - Reparar (Passo 2)
+                        - Resgate (ambos os passos)
+                        - Tirar da cola (ambos os passos)
+                        - Mudar de tática (Passo 2)
+                        - Atacar um enxame (Passo 1 ou 2 mas não ambos)
+	            - Fim do Turno (volta para Manobras)
+	                - _Degrade_ todas as naves (todas abaixam um nível na tabela)
+	                    - Certas ações evitam degradação
+	                    - Naves que tenham executado o _Bug Out_ e sobreviveram escapam
+	                    - Naves que mudaram de zona alcançam sua zona desejada
+                - Vai até um lado ser destruído ou desistir
+                - Estresse é aplicado a naves no Escudo e no Dano:
+                    - Escudo funciona normalmente como Estresse
+                    - Cada caixa de dano reduz em um o Estresse sofrido em 2, _mas_ ativa certas condições
+                    - Onde o dano será aplicado é determinado por um rolamento de um dF
+                    - Personagens sofrem Dano no Estresse quando a nave sofre uma caixa de Dano (1 para 1)
+                    - Todas as caixas de Dano marcadas - ***EJETE-SE***
+                - Ejetar-se não é bonito
+                    - Se sua nave estiver sendo destruída, você tem que gastar 1 PD e absorver um Ataque a +5
+                        - _**GOOOOOOOOOSSSSSSSSEEEEEEEEEE!!!!!!!!!!!**_
+                    - Uma ejeção "voluntária" não obriga gasto de PDs e o Ataque sofrido é a +3
+                    - Um piloto ao ejetar-se possui um certo suporte de vida (30 horas)
+                    - Qualquer um pode resgatar/capturar um piloto que tenha se ejetado
+                    - Atirar contra um piloto ejetado é normalmente um crime de guerra
+                    - Normalmente...
+                - Deixando o confronto (_Bug out_) - duas formas:
+                    - Concessão (como pelo Fate Básico)
+                    - _Corredor polonês_ - vai para _Especial_ e qualquer um pode te atacar. Se você sobreviver, você deixa o confronto
+                - Esquadras e Enxames: a oposição
+                    - Esquadras funcionam como grupos de capangas
+                        - +1 para cada nave na Esquada a partir da segunda (no máximo 4)
+                - Grandes naves
+                    - Não atacam _diretamente_
+                        - Baterias de armas defensivas atacam como se fossem naves.
+                    - Podem ser atacada a longa e curta distância
+                        - Longa distância: mais seguro, mas tem que passar os escudos poderosos
+                        - Curta distância: mais destruidor, mas você pode ser alvo de todas as baterias inimigas!
+                            - Corrida da Estrela da Morte, alguém?
+                - Áreas de combate
+                    - _Fighter Screen_
+                        - Várias zonas possuem cada uma sua tabela de manobra
+                    - Você só pode enfrentar alvos que estejam na mesma zona que você
+	    - Maximizar/Minimizar dados
+	        - Maximizar: substitui um dado automaticamente por um '+' _após o rolamento_
+	        - Minimizar: substitui um dado automaticamente por um '-' _após o rolamento_
+            - Normalmente oferecido por equipamentos
+            - Não pode-se maximizar/minimizar mais de dois dados por rolamento
+            - Caso múltiplos efeitos provoquem maximização/minimização de dados, os efeitos se cancelam um-para-um 
+- Indicar aproveitamento de ideias
+    - Top Gun (óbvia)
+- Rankear
+
