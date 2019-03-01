@@ -42,7 +42,7 @@ Asked by NORAD, they had gone to see why Santa Claus didn't talked back with NOR
 
 _"Well..."_ said Joshua _"It could be worst: I could had died, or absorbed Santa Clause and became Santa instead of Sven, or that crazy Ice Queen could had achieved what she wanted... Looking an elf is a small price for this."_
 
-_"Way to go, Jiminy."_ said Lesley. _"Now, you can go. As Eileen to get here in an hour. If you see Seiji, ask him that I'll talk with him after dinner. Think today is your night shift, right?"_
+_"Way to go, Jiminy."_ said Lesley. _"Now, you can go. AsK Eileen to get here in an hour. If you see Seiji, ask him that I'll talk with him after dinner. Think today is your night shift, right?"_
 
 _"Yeah... I'll take Transport 5 to get to Malta for resupply after the lunch and when I get back I'll tag for LionHeart. Me, Djanni, Cabby at the night."_ 
 
