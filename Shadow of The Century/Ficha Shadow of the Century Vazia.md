@@ -1,22 +1,22 @@
-# 
+# Tessa “Tess” Callaway
 
 ## Aspectos
 
-|              ***Tipo*** | ***Aspectos*** |
-|------------------------:|:---------------|
-|            **Conceito** |                |
-|         **Dificuldade** |                |
-|    **Chamado às Armas** |                |
-| **No Campo de Batalha** |                |
-|   **Formando a Equipe** |                |
+|              ***Tipo*** | ***Aspectos***                                                 |
+|------------------------:|:---------------------------------------------------------------|
+|            **Conceito** | A Vocalista Líder da Banda                                     |
+|         **Dificuldade** | Convencida demais para seu próprio bem                         |
+|    **Chamado às Armas** | Acredito no poder da música                                    |
+| **No Campo de Batalha** | A Faculdade foi legal, mas não nasci para ser atendente de bar |
+|   **Formando a Equipe** | Nos conhecemos desde sempre                                    |
 
 ## Papéis
 
 | ***Papel*** | ***Bizarro?*** | ***Perícias *** |
 |------------:|:--------------:|-----------------|
-|             |                |                 |
-|             |                |                 |
-|             |                |                 |
+|       Rosto |                |                 |
+|       Líder |                |                 |
+|   Diletante |                |                 |
 
 ## Perícias
 
