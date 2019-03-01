@@ -80,7 +80,7 @@ _"Right... I'll put The Harlequin in touch. I don't know if we'll go full power 
 
 _"Alright."_ said Joshua _"And thanks for this: I need to say that all that elf thing that happened with me is messing a little with me."_
 
-_"It's okay: you passed by an experience so rare and weird and dangerous that no one beside you can say how much it was painful. But you had passed by it alive, and there's a thing that my gramps said sometime:_ 'if you pass through something dangerous alive, you did something right. Learn with the experience.' _That Ice Queen bitch was really powerful, but I saw you under Santa's power and it was really over 9000. I don't think even Ozma would pass alive through that, even more unscathed. You are alive, so you did something right. Learn from it."_
+_"It's okay: you passed by an experience so rare and weird and dangerous that no one beside you can say how much it was painful. But you had passed by it alive, and there's a thing that my gramps said sometime:_ 'if you pass through something dangerous alive, you did something right. Learn with the experience.' _That Ice Queen bitch was really powerful, but I saw you under Santa's power and it was really over 9000. I don't think even Ozma would pass alive through that, even more unscathed, to try and hold that power for so long as you did. You are alive, so you did something right. Learn from it."_
 
 _"Right..."_ said Joshua, when his belly rumbled a little, making him blush even more.
 
