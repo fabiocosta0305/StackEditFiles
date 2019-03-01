@@ -104,13 +104,13 @@ _"I know that this is a good costume, but we need something more... Adult... Not
 
 _"Hope this isn't too costly. I don't want everyone saying that I'm hogging resources from HSF that could be sent for refugees or anything like this."_ talked Jiminy
 
-_"Talked with Andrew, and this will be all_ pro bono. _Looks like a good PR for him, also. Besides, some of the most exclusive costumes he does for capes all around are replicated by cosplayers, and maybe you can be a spearhead for a new product line for cosplayers that want the best. Obviously not so complete: cosplayers doesn't have to deal with supervillains on regular basis."_ she finished, while measuring him. _"I think we can start with darker, velvety colors. This could emphasis the hair and face, and add on the mystery. Otherwise, we can stay on your basic design with a Victorian suit, and go from this. Andrew has already some designs, let us see if there's something you like."_ said The Harlequin, while Andrew came with a small binder.
+_"Talked with Andrew, and this will be all_ pro bono. _Looks like a good PR for him, also. Besides, some of the most exclusive costumes he does for capes all around are replicated by cosplayers, and maybe you can be a spearhead for a new product line for cosplayers that want the best. Obviously not so complete: cosplayers doesn't have to deal with supervillains on regular basis."_ she finished, while Andrew was measuring him. _"I think we can start with a little darker colors, and under velvety tones and patterns. This could emphasis the hair and face, and add on the mystery. Otherwise, we can stay on your basic design with a Victorian suit, and go from this. Andrew has already some design sketchs, let us see if there's something you like."_ said The Harlequin, while Andrew came with a small binder.
 
-Jiminy knew that Andrew was the Gianni Versacce for capes: only the _creme-de-la-creme_ had access for his designs. So, he thought, Disney would already know about him and about him redoing his cape.
+Jiminy knew that Andrew was the Gianni Versacce for capes: only the _creme-de-la-creme_ had access for his designs. So, he thought, Disney would already know about him and about him redoing his cape. He was almost to ask The Harlequin about this when she said, almost like she read his mind.
 
-_"I believe that Andrew worked with Disney in the past, for some redesing on the Disney Park princess' design. And looks like they asked also for a more casual redesign for Mickey, but this is all under nondisclosure agreements."_ said The Harlequin, nonchalantly, like it was just a small fact _"Let us see..."_
+_"I believe that Andrew worked with Disney in the past, for some redesing on the Disney Park princess' design, including some for the new cape-focused styles for princesses, Mickey and villains. And looks like they asked also for a more casual redesign for Mickey, but this is all under nondisclosure agreements."_ said The Harlequin, nonchalantly, like it was just a small fact _"Let us see..."_
 
-Jiminy saw design after design, until Sugarplum looked for Jiminy:
+Jiminy saw sketch after sketch, until Sugarplum looked for Jiminy:
 
 _"This one looks promising, right?"_ she asked
 
@@ -118,15 +118,15 @@ It was a dark green tails, with some engravings and embroidments on a kind of ru
 
 _"Like this one..."_ looked Jiminy. _"I have some issues only with the mask. I don't think this would be good: this kind of mask sound too villainy for me... No offense, Quin."_ said Jiminy
 
-_"Apology accepted."_ said The Harlequin, that normally uses the Domino Mask. _"We can include a half-mask option if you like. Also, we can go for a Zorro mask that can cover discreetly your ear tips."_ she said, turning the page and showing the half-mask and some extra accessories.
+_"Apology accepted."_ said The Harlequin, that normally uses the Domino Mask. _"We can include a half-mask option if you like. Also, we can go for a Zorro mask that can cover discreetly your ear tips. Otherwise, looks like a really really cool style. A little cheeky, but not too much sensual. It shows nicely yourself and put some mystery, like a Victorian vigilante, elegant and mysterious. You are not exactly well-built, but also not too much chubby anymore, and the clothes will make you look just a little slender, which will make you look so princely handsome."_ she said, turning the page and showing the half-mask and some extra accessories.
 
-_"For you to use on daily basis, as you need to do some maintenance on the helicopters and so, Andrew thought on this faux leather apron. This is_ very _steampunk, even more with the cricket shaped pilot goggles that are a third option for your eyes. The clothes are all on the best fabrics, silk and satin shirts and good leather high-kneeled boots, like those used by riders."_ said The Harlequin
+_"For you to use on daily basis, as you need to do some maintenance on the helicopters and so, Andrew thought on this faux leather apron look, without the tails, using the Zorro Mask and Top Hat. This look'll  be_ very _steampunk, even more with the cricket shaped pilot goggles that are a third option for your eyes. The clothes will be all on the best fabrics, silk and satin shirts and good leather high-kneeled boots, like those used by riders, and with space for some new Kevlar like Vernetech ballistic protections."_ said The Harlequin
 
 Jiminy smiled 
 
 _"I like this one: is not too much afar from what I'm used to, but is cool."_ said Jiminy
 
-_"Alright: I think we can do this until you need to get back ORSL 1 after the common exercises. Andrew will also ready some more formal costumes, with black pants and tails and rusty yellow waistcoat."_ said The Harlequin, closing the binder _"And I think that someone that saved Christmas needs the best."_
+_"Alright: I think we can do this until you need to get back ORSL 1 after the common exercises. Andrew will also ready some more formal costumes, with black pants and tails and rusty yellow waistcoat, and some variations for warm weathers, with cooler fabrics, and for cold weathers."_ said The Harlequin, closing the binder _"And I think that someone that saved Christmas needs the best."_
 
 _"How you know..."_
 
@@ -199,6 +199,100 @@ _"Alright..."_ said Soldaire, gladly _"I had some fear you denied: I believe you
 _"Sure."_ said Sugarplum _"And thank you too, Jiminy: I don't think I would be able to deal with a big team like ours just by myself."_
 
 _"No problem at all."_ said Jiminy.
+
+## Chapter 3
+
+> _"Even capes can do stupid things. Breakthrough are not a vaccine against stupidity. In fact, some times the biggest ways to learn things, even being a breakthrough, is to do stupid things."_
+>
+> *__Jiminy Cricket__, "A Living Conscience: some musings from a life Wearing the Cape"*
+
+The team had split for confraternization: the biggest share stayed there in The Dome while Jiminy, Sugarplum, Dumont, Soldaire and the Sentinel girls got for The Fortres, the dance club/café/memorabilia museum from Chicago.
+
+_"Don't worry about the place."_ said The Harlequin, looking for Sugarplum and Jiminy _"Today is a more family friendly day, not too much a hype day."_
+
+When Jiminy got there, remembered him Hard Rock Cafe or, with not, Le Cafe Mickey on Disneyworld: lots of cape memorabilia, including posters and costume sets and even some weapons.
+
+_"Those are not functional, of course. No one wants an accident. But they are really used in the past."_ said The Harlequin
+
+There was little crowd in that night: some cosplayers fans, or just fans, some common people that just wanted good food and drink and some of the local capes, some that were in the combined exercises just today. Jiminy could recognize SaFire, the B-Class Atlas that was focused on EMT rescue, instead of a fighter like Astra. 
+
+_"Okay, let us try some appetizer and drinks. No alcohol for you today, Jiminy."_ said Sugarplum _"You're still underage for alcohol."_
+
+_"Okay."_ thought Jiminy
+
+Jiminy was into his new costume set, that had a little Mad Hatter on it now, but he liked: it was more comfy, even being a little tighter on the knees thanks to the high-kneeled riding boots. 
+
+They sat on The Table, the exclusive _Sentinels_ table: they could see that it was that because it had the _Sentinels_ crest over the table, the same stylished S they could see in Astra's buckle.
+
+_"What about some beers for the big ones and Cola for the kid? And the fries here are fantastic."_ asked The Harlequin
+
+_"Alright."_ said Sugarplum _"And then we could eat something."_
+
+There came some big glasses with the beers and cola and some appetizers.
+
+_"Need to say that you are really good on those clothes."_ said Chakra to Jiminy _"Your tantric flow looks so better now. When I saw you when you arrived today, I could saw that you chakras were too much opened. Maybe a reflex of your secret experiences recently?"_
+
+_"Can you see all this?"_ said Jiminy
+
+_"Right. Tantric yoga is not about_ sex, _at least not exclusively, but about_ life. _Life in all expressions, life with all meanings, unrestricted and unfettered. Sex is obviously part of life, but by no means is the main thing or the only thing."_ said Chakra
+
+_"So dull talk, Chakra, let us talk about guys!"_ said The Harlequin
+
+_"You are the one who had brought a minor with us."_ replied Astra _"But what about talking on something else. Lighter things. Books?"_
+
+_"There's this series about a magician..."_ chirped somehow Jiminy, when they looked to him 
+
+_"Hey, like those things."_ talked Astra, trying to make Jiminy comfortable _"Tell us more."_
+
+They started to do a small Reading club, talking about the things they all liked to read. Jiminy discovered some nice things, like how much The Harlequin liked to read bibliographies, and Chakra read almost all the sacred books around the world, from the _Bhagavad-Gita_ to _The Bible_ to the _Q'uran_ to some books from the Ba'h'ai.
+
+It was a good time for everyone, when they saw a small mist getting aside him
+
+_"Had some problems, Artemis?"_ asked The Harlequin
+
+_"Some drug dealers. Nothing that bad, but detoured a little."_ she said. Jiminy knew that Artemis was a Supernatural cape, a vampire, with the full package except the Progenity: she could bite someone all the time, but she would never make another vampire. She also could not be turned away by holy symbols or crossing waters and so. Holy water works, however, as far he knew, as also would work sunlight. And when sleeping she would be always like a corpse.
+
+_"We spared some Blood Mary for you."_ said Astra, passing the drink for her.
+
+_"Thanks."_ she said _"And this is Jiminy Cricket, right? I remember you from that revalidation test. You did well on that time and, by what I heard, you did even better that year."_
+
+_"Right. Nice to see you again too."_ said Jiminy, drinking a big gulp from his cup, when he felt something weird that made him gulp his drink in. _"Hey, this is not coke."_
+
+_"Let me see..."_ said Artemis _"Someone had exchanged your cup. This is dark beer."_
+
+_"Oh, sorry..."_ said the barman _"I'll provide a new cup."_
+
+Jiminy looked a little weird.
+
+_"What happened, Jiminy?"_ said Dumont, when they all saw Jiminy run
+
+_"Dumont!"_ said Blue Fairy via his Earbug _"Looks like that beer made Jiminy go sick."_
+
+_"What?"_ said Dumont, when he looked for the girls. _"Just a minute, I'll see for Jiminy. Blue Fairy just said that the beer made him go sick."_
+
+Dumont got to the bathroom were he could hear Jiminy barfing on the toilet.
+
+_"What happened, Blue Fairy? This were poisoned?"_ asked Dumont
+
+_"Not as far I could analyse. What I felt on Jiminy's stats is that the alcohol had skyrocketed went inside him. It was like he took a vodka bottle on an instant!"_ said Blue Fairy _"I'm saving this data for the doctors look upon in the future, but it's weird: it was just a gulp, it should not react that way."_ she said via Earbug, while Jiminy got back on his feet.
+
+_"Just a minute, Jiminy."_ said Dumont _"Go for the sink and wash your mouth from the vomit. This will help you. How are you?"_
+
+_"A little sick."_ said Jiminy _"Never thought dark beer was that bad."_
+
+_"They are strong, but not enough to make someone go that sick so fast."_ said Dumont _"Blue Fairy, send this ASAP for Squirrel Girl."_
+
+_"Do you think this could be about the Santa Mantle?"_ asked Jiminy, flabbergasted
+
+_"Later with this... Better?"_ questioned Dumont
+
+_"I'm feeling everything spinning around me, and I'm feeling sick and weak."_ said Jiminy
+
+_"Congratulations, Jiminy."_ joked Dumont _"You just got Guiness Record for the fastest first hangover in history. And is ironic that Guiness is a beer company in Ireland. Let me help you back."_
+
+_"That's horrible."_ said Jiminy, passing his hand back Dumont and supporting his weight on him.
+
+They got back
 
 <!--  LocalWords:  Jiminy Cricket Dimantas Soldaire ORSL rabbity Ozma
  -->
