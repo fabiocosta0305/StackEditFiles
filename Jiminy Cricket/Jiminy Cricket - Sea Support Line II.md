@@ -254,17 +254,17 @@ _"Some drug dealers. Nothing that bad, but detoured a little."_ she said. Jiminy
 
 _"We spared some Blood Mary for you."_ said Astra, passing the drink for her.
 
-_"Thanks."_ she said _"And this is Jiminy Cricket, right? I remember you from that revalidation test. You did well on that time and, by what I heard, you did even better that year."_
+_"Thanks."_ she said _"And this is Jiminy Cricket, right? I remember you from that revalidation test. You did well on that time and, by what I heard, you did even better that year and since than. Need to say that Blackstone looks for you since."_
 
 _"Right. Nice to see you again too."_ said Jiminy, drinking a big gulp from his cup, when he felt something weird that made him gulp his drink in. _"Hey, this is not coke."_
 
-_"Let me see..."_ said Artemis _"Someone had exchanged your cup. This is dark beer."_
+_"Let me see..."_ said Artemis, taking a small sip _"Someone had exchanged your cup. This is dark beer."_
 
-_"Oh, sorry..."_ said the barman _"I'll provide a new cup."_
+_"Oh, sorry..."_ said the barman _"I'll provide a new cup, looks like we exchanged your drinks with other askings."_
 
 Jiminy looked a little weird.
 
-_"What happened, Jiminy?"_ said Dumont, when they all saw Jiminy run
+_"What happened, Jiminy?"_ said Dumont, when they all saw Jiminy run, looking like he was ready to puke out
 
 _"Dumont!"_ said Blue Fairy via his Earbug _"Looks like that beer made Jiminy go sick."_
 
@@ -292,7 +292,49 @@ _"Congratulations, Jiminy."_ joked Dumont _"You just got Guiness Record for the 
 
 _"That's horrible."_ said Jiminy, passing his hand back Dumont and supporting his weight on him.
 
-They got back
+They got back to the bar, where they were all looking worried.
+
+_"Don't worry. Just a hangover."_ said Dumont, but Sugarplum and the Sentinels could see there's something else.
+
+Jiminy sat Sugarplum filled a glass of water
+
+_"Take some..."_ said her _"The last thing we need is you to passing out dehydrating yourself."_
+
+_"Thanks."_ said Jiminy _"I don't want to drink beer no more."_
+
+_"This is not normal."_ stated The Harlequin _"Could be the Mission that Wasn't?"_
+
+_"Maybe..."_ he answered, when Artemis pushed him a cup 
+
+_"Drink this, it will help."_ commanded Artemis with a somewhat cold tone.
+
+Jiminy looked queasy, but took a gulp. It made him a little better and made him smiled.
+
+_"This is really good. What is this?"_ he asked
+
+_"My personal rendition of a classic mocktail, a drink without alcohol, called_ Shirley Temple. _Coke, dark cocoa, sugar, a hint of vanilla and some iced coffee. I call it_ Wednesday Addams."
+
+Jiminy took other big gulp and finished the mocktail
+
+_"That was really good, I'm feeling a little better."_ he said _"Maybe I'll pass that burger I asked and take a small grilled cheese and chicken sandwich."_
+
+_"Look a good idea."_ said Chakra _"Looks like whatever happened with you made you extra-sensible for some intoxicating substances, in fact, alcohol. Although looks like you can deal okay with sugar and coffee."_
+
+The waitress came with the sandwich and some salad.
+
+_"What a way to take a new look, right?"_ said The Harlequin, smiling. _"Hope no paparazzi was here, or tomorrow Varekai will have a headache bigger than you."_
+
+Varekai (real name: Thomas Flüss) was _Herós Sans Frontières_' personal relations, dealing with magazines and newspapers on HSF heroes situations. And the last thing HSF needed was a scandal involving the so-called Kid Hero, the youngest CAI-certificated cape in the history, drunk as a skunk and with a big hangover. And worse, he didn't drank even a full cup of dark beer.
+
+_"Hope not... At least, people had already took all the pics when we came."_ said Jiminy, weak
+
+_"I think you need another shot of my Wednesday Addams."_ smiled Artemis _"I'll see if the bartender can do one. You need to recover sugar to block alcohol and allow it to get away from your system."_
+
+_"Thanks... It was really weird. Ever thought that you needed to drink lots before got drunk. My parent was once on a big hangover and puked out, but he drank a lot of cans of beer."_ he talked
+
+_"Sound like you were already weak to drink, and didn't know."_ said The Harlequin, nonchalantly, trying to finish the topic _"However, let us say something better: I saw the books_ Herós Sands Frontières _were publishing and many of them are really cool."_
+
+_Herós Sans Frontières_ were asking the capes to write books about their lives to cash some extra money, after they saw the success of _Superdads_. Jiminy's _From Dress Up to Save Up_, LionHeart's _Life under a Super-parole_ and Djanni's _"Musings on the Holy Qu'ran and the Event, from a Breakthrough Muslim"_, on other books, were selling very well, either on physical and on digital
 
 <!--  LocalWords:  Jiminy Cricket Dimantas Soldaire ORSL rabbity Ozma
  -->
