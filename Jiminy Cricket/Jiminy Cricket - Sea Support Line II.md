@@ -330,7 +330,7 @@ _"Hope not... At least, people had already took all the pics when we came."_ sai
 
 _"I think you need another shot of my Wednesday Addams."_ smiled Artemis _"I'll see if the bartender can do one. You need to recover sugar to block alcohol and allow it to get away from your system."_
 
-_"Thanks... It was really weird. Ever thought that you needed to drink lots before got drunk. My parent was once on a big hangover and puked out, but he drank a lot of cans of beer."_ he talked
+_"Thanks... It was really weird. Ever thought that you needed to drink lots before got drunk. My dad was once on a big hangover and puked out, but he drank a lot of cans of beer."_ he talked
 
 _"Sound like you were already weak to drink, and didn't know."_ said The Harlequin, nonchalantly, trying to finish the topic _"However, let us say something better: I saw the books_ Herós Sands Frontières _were publishing and many of them are really cool."_
 
