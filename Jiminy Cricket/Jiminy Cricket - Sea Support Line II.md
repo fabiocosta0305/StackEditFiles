@@ -160,9 +160,9 @@ _"In fact, this training had shown how much skilled you three are as field leade
 
 _"Alright."_ said Astra, and both of them got out the room
 
-Sugarplum and Jiminy looked for Soldaire: for some reason, they took a hint of sadness on his face, hidden on his_ on the duty _stance: as always, when not in his_ SolArmor, _he was on his best_ Keichisou _police officer uniform._
+Sugarplum and Jiminy looked for Soldaire: for some reason, they took a hint of sadness on his face, hidden on his _on the duty_ stance: as always, when not in his _SolArmor_, he was on his best _Keichisou_ police officer uniform._
 
-_"First of all: I want you to hold all we say here as classified for a time, including the others. There will be soon a formal release and so. Dumont already know what I'm to talk about, and Squirrel Girl too, but the others doesn't know."_ said Soldaire.
+_"First of all: I want you to hold all we say here as classified for a time, including from the rest of the team. There will be soon a formal announcement about this in the future. Dumont already know what I'm to talk about, and Squirrel Girl too, but the others doesn't know."_ said Soldaire.
 
 _"Recently, some time before the Christmas Mission, I was feeling tired very fast after using the_ SolArmor. _Even with my training, it was making me get fast, too near from pass out while on the Armor, what would be a serious business. While you got back from Christmas' Mission, I had gone to Japan for a meeting with_ Defensenet, _and then I passed with Doctor Hisagawa_, SolArmor'_s creator."_
 
@@ -194,7 +194,7 @@ Jiminy thought on all the six years since he became a full-fledged cape: he foug
 
 _"I think I can do this."_ said Jiminy.
 
-_"Alright..."_ said Soldaire, gladly _"I had some fear you denied: I believe you and Sugarplum we'll be incredible leaders: you two have the profile to be the team leader. I don't want you to be full of yourself, Jiminy, but I don't think Blackstone could be a so good information profiler than you. He's better, by sure, but he has_ ages _of experience you don't have. I really believe you'll do well. So, let us go: think the team is wainting you."_ 
+_"Alright..."_ said Soldaire, gladly _"I had some fear you could deny this: I believe you and Sugarplum we'll be incredible leaders: you two have the profile to be the team leader. I don't want you to be full of yourself, Jiminy, but I don't think Blackstone could be a so good information profiler than you. He's better, by sure, but he has_ ages _of experience you don't have. I really believe you'll do well. So, let us go: think the team is wainting you."_ 
 
 _"Sure."_ said Sugarplum _"And thank you too, Jiminy: I don't think I would be able to deal with a big team like ours just by myself."_
 
@@ -312,7 +312,7 @@ Jiminy looked queasy, but took a gulp. It made him a little better and made him 
 
 _"This is really good. What is this?"_ he asked
 
-_"My personal rendition of a classic mocktail, a drink without alcohol, called_ Shirley Temple. _Coke, dark cocoa, sugar, a hint of vanilla and some iced coffee. I call it_ Wednesday Addams."
+_"My personal rendition of a classic mocktail called_ Shirley Temple. _Coke, some iced coffee, dark cocoa, sugar, a hint of vanilla. I call it_ Wednesday Addams." she said smiling
 
 Jiminy took other big gulp and finished the mocktail
 
@@ -334,7 +334,10 @@ _"Thanks... It was really weird. Ever thought that you needed to drink lots befo
 
 _"Sound like you were already weak to drink, and didn't know."_ said The Harlequin, nonchalantly, trying to finish the topic _"However, let us say something better: I saw the books_ Herós Sands Frontières _were publishing and many of them are really cool."_
 
-_Herós Sans Frontières_ were asking the capes to write books about their lives to cash some extra money, after they saw the success of _Superdads_. Jiminy's _From Dress Up to Save Up_, LionHeart's _Life under a Super-parole_ and Djanni's _"Musings on the Holy Qu'ran and the Event, from a Breakthrough Muslim"_, on other books, were selling very well, either on physical and on digital
+_Herós Sans Frontières_ were asking the capes to write books about their lives to cash some extra money, after they saw the success of _Superdads_. Jiminy's _From Dress Up to Save Up_, LionHeart's _Life under a Super-parole_ and Djanni's _"Musings on the Holy Qu'ran and the Event, from a Breakthrough Muslim"_, on other books, were selling very well, either on physical and on digital.
+
+_"Thanks: it was an idea to make some money aside the donations. We'll still need the donations, to be fair: our money needs are big, as our job are big. But these books are selling well, and people are also asking us for speaks on events and so. This money came in a good time: we need to reinforce our teams, bring new capes, train and reinforce our gigs."_ said Jiminy
+
 
 <!--  LocalWords:  Jiminy Cricket Dimantas Soldaire ORSL rabbity Ozma
  -->
